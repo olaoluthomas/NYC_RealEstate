@@ -1,0 +1,754 @@
+address,area,baths,beds,building type,latitude,longitude,neighborhood,price
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+4001 Lowerre Place,1984.0,4.0,8.0,Multi-family,40.88899994,-73.86119843,Wakefield,850000.0
+171 West 179th Street,2761.0,3.5,3.0,House,40.85580063,-73.91419983,University Heights,375000.0
+3050 Fairfield Avenue #7G,1350.0,2.0,2.0,Co-op,40.88249969,-73.91429901,Spuyten Duyvil,410000.0
+710 Sagamore Street,1714.0,2.0,3.0,House,40.84840012,-73.86650085,Van Nest,478000.0
+2750 Johnson Avenue #2K,850.0,1.0,1.0,Co-op,40.88010025,-73.91179657,Spuyten Duyvil,220000.0
+3810 Greystone Avenue #607,750.0,1.0,1.0,Co-op,40.88779831,-73.90499878,Riverdale,190900.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+1618 Bayview Avenue,1724.0,1.0,2.0,House,40.84659958,-73.81710052,Country Club,225000.0
+555 Kappock Street #24U,700.0,1.0,1.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,190000.0
+903 Dean Avenue,2583.0,4.0,5.0,Multi-family,40.83330154,-73.81739807,Throgs Neck,799000.0
+716 Penfield Street,5929.0,7.0,10.0,Multi-family,40.90459824,-73.84899902,Bronx,1050000.0
+608 Van Nest Avenue,2436.0,4.0,6.0,Multi-family,40.84249878,-73.86750031,Van Nest,699000.0
+2104 Holland Avenue #3G,1050.0,1.0,2.0,Co-op,40.85359955,-73.86530304,Bronxdale,209000.0
+2962 Decatur Avenue #2D,822.0,1.0,1.0,Co-op,40.86830139,-73.8832016,Bedford Park,169000.0
+2905 Hering Avenue,1116.0,1.0,2.0,House,40.86800003,-73.85399628,Laconia,420000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+3201 Grand Concourse #6K,1363.0,2.0,2.0,Condo,40.87689972,-73.88629913,Bedford Park,325000.0
+2130 East Tremont Avenue #3C,783.0,1.0,2.0,Condo,40.83990097,-73.85990143,Parkchester,179000.0
+3656 Johnson Avenue #2E,1100.0,1.0,2.0,Co-op,40.88819885,-73.90899658,Spuyten Duyvil,355000.0
+2866 Marion Avenue #6J,750.0,1.0,1.0,Co-op,40.86809921,-73.8852005,Bedford Park,145000.0
+520 Taylor Avenue,2750.0,2.0,5.0,Multi-family,40.81570053,-73.86139679,Soundview,625000.0
+5235 Post Road #2C,750.0,1.0,1.0,Co-op,40.89830017,-73.89880371,Fieldston,145000.0
+2727 Palisade Avenue #5A,750.0,1.0,1.0,Co-op,40.8830986,-73.92099762,Riverdale,275000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+1618 Bayview Avenue,1724.0,1.0,2.0,House,40.84659958,-73.81710052,Country Club,225000.0
+2191 Bolton Street #1F,778.0,1.0,1.0,Co-op,40.85609818,-73.8690033,Bronxdale,130000.0
+1425 Thieriot Avenue #4A,1000.0,1.0,2.0,Co-op,40.83739853,-73.86569977,Parkchester,159000.0
+4388 Richardson Avenue,1766.0,2.0,5.0,Multi-family,40.89849854,-73.85549927,Wakefield,545000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+1618 Bayview Avenue,1724.0,1.0,2.0,House,40.84659958,-73.81710052,Country Club,225000.0
+3656 Johnson Avenue #6CD,2000.0,2.0,4.0,Co-op,40.88819885,-73.90899658,Spuyten Duyvil,895000.0
+1058 University Avenue,4368.0,3.0,7.0,Multi-family,40.834826,-73.930109,Highbridge,849000.0
+1320 Stratford Avenue,3440.0,4.0,7.0,Multi-family,40.832451,-73.875923,Soundview,379021.0
+2215 Homer Avenue,1638.0,2.0,3.0,House,40.822144,-73.84807,Castle Hill,399999.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+1124 Taylor Avenue,1920.0,2.0,6.0,Multi-family,40.828712,-73.86438,Soundview,599000.0
+3064 Heath Avenue,1236.0,1.0,2.0,House,40.877316,-73.901733,Kingsbridge Heights,430000.0
+4153A Baychester Avenue,1080.0,1.0,3.0,House,40.894351,-73.844505,Edenwald,359000.0
+2945 Tenbroeck Avenue,1500.0,2.0,5.0,Multi-family,40.868996,-73.853043,Laconia,439900.0
+1317 University Avenue,2432.0,2.0,7.0,Multi-family,40.841109,-73.926959,Highbridge,529000.0
+1862 Loring Place South,4140.0,2.0,6.0,House,40.853309,-73.91484,Morris Heights,379000.0
+1531 Gillespie Avenue,1458.0,2.0,4.0,Multi-family,40.843098,-73.831352,Schuylerville,489000.0
+1842 Bruckner Boulevard,2310.0,3.0,5.0,Multi-family,40.825012,-73.863174,Soundview,459000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+4445 Park Avenue,1497.0,2.0,4.0,House,40.853755,-73.896339,East Tremont,160000.0
+182 Revere Avenue,1584.0,2.0,6.0,House,40.8156,-73.81628,Throgs Neck,492000.0
+454 Effingham Avenue,1638.0,1.0,1.0,Multi-family,40.81669998,-73.8451004,Castle Hill,469000.0
+3391 Capuchin Way,1160.0,2.0,2.0,House,40.87469864,-73.86389923,Williamsbridge,220000.0
+1827 Hone Avenue,1920.0,2.0,5.0,Multi-family,40.84949875,-73.85559845,Morris Park,595900.0
+3055 Eastchester Road,1848.0,2.0,3.0,Multi-family,40.870716,-73.843712,Baychester,535001.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+4114 Wickham Avenue,1632.0,4.0,5.0,Multi-family,40.89250183,-73.84809875,Wakefield,649000.0
+1319 Harding Park,700.0,1.0,2.0,House,40.8091011,-73.85790253,Soundview,250000.0
+2264 Gleason Avenue,2480.0,2.0,6.0,Multi-family,40.83200073,-73.84860229,Westchester Village,1400000.0
+1544 Mcdonald Street,2016.0,2.0,4.0,Multi-family,40.85499954,-73.84269714,Pelham Parkway,735000.0
+513 Revere Avenue,1600.0,2.0,5.0,Multi-family,40.82229996,-73.82080078,Throgs Neck,600000.0
+1098 Woodycrest Avenue,3188.0,3.0,8.0,Multi-family,40.8348999,-73.92590332,Highbridge,549900.0
+5 Belmont Street,2660.0,2.0,4.0,House,40.8443985,-73.91429901,Concourse,654900.0
+2120 Mapes Avenue #3A,900.0,1.0,2.0,Co-op,40.84700012,-73.88490295,East Tremont,90000.0
+2325 Hermany Avenue,1620.0,2.0,2.0,House,40.82540131,-73.84539795,Castle Hill,489000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+2239 Gleason Avenue,1714.0,3.0,6.0,Multi-family,40.83229828,-73.84960175,Westchester Village,669000.0
+1144 Wheeler Avenue,3440.0,4.0,7.0,Multi-family,40.82730103,-73.87950134,Soundview,749000.0
+1630 Library Avenue,648.0,1.0,2.0,House,40.8470993,-73.81800079,Country Club,359000.0
+28 Metropolitan Oval #1B,613.0,1.0,1.0,Condo,40.83860016,-73.85649872,Parkchester,155000.0
+750 Kappock Street #910,1400.0,2.0,2.0,Co-op,40.88180161,-73.92070007,Spuyten Duyvil,525000.0
+1539 Kennellworth Place,2190.0,3.0,5.0,House,40.84560013,-73.82250214,Country Club,739000.0
+936 East 224th Street,3510.0,2.0,6.0,Multi-family,40.88460159,-73.85379791,Wakefield,865000.0
+2352 Waterbury Avenue,2496.0,2.0,5.0,Multi-family,40.83449936,-73.84649658,Westchester Village,525000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+1922 McGraw Avenue #6D,700.0,1.0,1.0,Co-op,40.83449936,-73.86049652,Parkchester,139000.0
+861 East 215th Street,1440.0,2.0,3.0,Multi-family,40.87919998,-73.85919952,Williamsbridge,559000.0
+6120 Riverdale Avenue,3900.0,6.0,7.0,Multi-family,40.91070175,-73.90270233,Riverdale,1100000.0
+228 Hollywood Avenue,1600.0,3.0,5.0,Multi-family,40.81740189,-73.81410217,Throgs Neck,665000.0
+328 East 239th Street,1656.0,2.0,4.0,House,40.90019989,-73.86640167,Woodlawn,549000.0
+3646 Holland Avenue,3692.0,8.0,10.0,Multi-family,40.87990189,-73.86309814,Williamsbridge,799999.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+1136 Thieriot Avenue,2076.0,3.0,7.0,Multi-family,40.82899857,-73.86360168,Soundview,649000.0
+3028 Kingsbridge Terrace,3740.0,2.0,9.0,Multi-family,40.87620163,-73.90139771,Kingsbridge Heights,950000.0
+1602 Merry Avenue,1403.0,2.0,2.0,House,40.84320068,-73.82939911,Schuylerville,479000.0
+747 East 217th Street,1205.0,3.0,4.0,Multi-family,40.88180161,-73.86180115,Williamsbridge,549000.0
+416 East 237th Street,2865.0,4.0,4.0,House,40.89910126,-73.86440277,Woodlawn,599000.0
+5650 Netherland Avenue #3C,750.0,1.0,1.0,Co-op,40.90520096,-73.90609741,Riverdale,134999.0
+2961 Harding Avenue,1600.0,2.0,6.0,Multi-family,40.81669998,-73.81359863,Throgs Neck,699000.0
+1516 Bantam Place,2700.0,3.0,5.0,House,40.86600113,-73.84249878,Pelham Gardens,699000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+1960 East Tremont Avenue #3B,686.0,1.0,1.0,Condo,40.83990097,-73.85990143,Parkchester,115000.0
+3311 Giles Place #2A,750.0,1.0,1.0,Co-op,40.87889862,-73.89880371,Kingsbridge Heights,145000.0
+3625 Oxford Avenue #6B,988.0,2.0,2.0,Condo,40.88729858,-73.9088974,Spuyten Duyvil,565000.0
+4036 Edson Avenue,2112.0,3.0,6.0,Multi-family,40.89070129,-73.84349823,Edenwald,649000.0
+3309 Delavall Avenue,1584.0,2.0,4.0,House,40.88079834,-73.82740021,Co-op City,389000.0
+2153 Belmont Avenue,2850.0,2.0,10.0,Multi-family,40.85020065,-73.88909912,East Tremont,699000.0
+2015 Saint Paul Avenue #1F,500.0,1.0,1.0,Co-op,40.85269928,-73.82920074,Pelham Bay,95000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+1430 Thieriot Avenue #4L,1100.0,2.0,3.0,Co-op,40.83750153,-73.86519623,Parkchester,175000.0
+397 Pennyfield Avenue,630.0,1.0,2.0,House,40.81790161,-73.80999756,Throgs Neck,305000.0
+4380 Vireo Avenue #4O,800.0,1.0,1.0,Co-op,40.90090179,-73.86260223,Woodlawn,135000.0
+4D Carroll Street,500.0,1.0,1.0,House,40.84489822,-73.78970337,City Island,499000.0
+6 Fordham Hill Oval #4G,893.0,1.0,2.0,Co-op,40.86520004,-73.90670013,University Heights,179000.0
+2727 Tenbroeck Avenue,1088.0,2.0,2.0,House,40.86640167,-73.85320282,Laconia,430000.0
+1323 Boynton Avenue,2480.0,3.0,5.0,Multi-family,40.83200073,-73.87930298,Soundview,675000.0
+4134 Wickham Avenue,1890.0,1.0,2.0,Multi-family,40.89300156,-73.84829712,Wakefield,565000.0
+276 Buttrick Avenue #3,920.0,2.0,3.0,Condo,40.81570053,-73.82450104,Throgs Neck,325000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+754 Brady Avenue #303,850.0,1.0,2.0,Co-op,40.85200119,-73.86560059,Bronxdale,142000.0
+700 Oakland Place #6C,800.0,1.0,1.0,Co-op,40.8470993,-73.88929749,East Tremont,70000.0
+2889 Wellman Avenue,1570.0,2.0,4.0,Multi-family,40.84149933,-73.83350372,Schuylerville,449000.0
+284 East 169th Street,2142.0,2.0,7.0,Multi-family,40.8348999,-73.91239929,Concourse,650000.0
+2866 Marion Avenue #6B,725.0,1.0,1.0,Co-op,40.86809921,-73.8852005,Bedford Park,134500.0
+1537 Kennellworth Place,2400.0,2.0,6.0,Multi-family,40.84550095,-73.82250214,Country Club,699000.0
+3531 Bronxwood Avenue #2K,1100.0,1.0,2.0,Co-op,40.87649918,-73.86039734,Williamsbridge,105000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+785 East 181st Street #22,800.0,1.0,2.0,Co-op,40.84759903,-73.88500214,East Tremont,100000.0
+728 Coster Street,2160.0,2.0,6.0,Multi-family,40.81529999,-73.88739777,Hunts Point,535000.0
+2404 Eastchester Road,927.0,2.0,2.0,House,40.86119843,-73.84269714,Pelham Gardens,649000.0
+1641 Bogart Avenue,1826.0,3.0,3.0,Multi-family,40.84500122,-73.85639954,Morris Park,589000.0
+15 Harper Court,2166.0,3.0,5.0,Multi-family,40.88479996,-73.83509827,Edenwald,599000.0
+610 Waring Avenue #1D,859.0,1.0,2.0,Condo,40.86109924,-73.87000275,Bronxwood,195000.0
+5425 Valles Avenue #6GH,1650.0,2.0,3.0,Co-op,40.90209961,-73.90010071,Riverdale,425000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+4295 Webster Avenue #2F,1100.0,1.0,2.0,Co-op,40.89910126,-73.86260223,Woodlawn,225000.0
+2983 Lawton Avenue,1600.0,3.0,4.0,Multi-family,40.81809998,-73.81420135,Throgs Neck,569000.0
+1219 Evergreen Avenue,1560.0,2.0,4.0,Multi-family,40.82910156,-73.88150024,Soundview,629000.0
+2239 Story Avenue,2800.0,2.0,6.0,Multi-family,40.82590103,-73.84809875,Castle Hill,580000.0
+551 Saint Lawrence Avenue,1522.0,2.0,5.0,Multi-family,40.81629944,-73.86389923,Soundview,549000.0
+753 Bartholdi Street,2068.0,2.0,6.0,Multi-family,40.8742981,-73.86489868,Williamsbridge,669000.0
+740 Revere Avenue,3321.0,4.0,5.0,Multi-family,40.82699966,-73.82389832,Throgs Neck,905000.0
+1252 Teller Avenue,2730.0,2.0,5.0,Multi-family,40.83340073,-73.91069794,Concourse,549000.0
+5800 Arlington Avenue #1F,898.0,1.0,2.0,Co-op,40.90819931,-73.90550232,Riverdale,269999.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+1618 Bayview Avenue,1724.0,1.0,2.0,House,40.84659958,-73.81710052,Country Club,225000.0
+2727 Palisade Avenue #16A,800.0,1.0,1.0,Co-op,40.8830986,-73.92099762,Spuyten Duyvil,369000.0
+1137 Noble Avenue,2992.0,3.0,7.0,Multi-family,40.82849884,-73.86979675,Soundview,800000.0
+2410 Davidson Avenue #A22,600.0,1.0,2.0,Co-op,40.86180115,-73.90260315,University Heights,95000.0
+2871 Grace Avenue,3201.0,4.0,6.0,Multi-family,40.86930084,-73.8348999,Baychester,575000.0
+2865 Grace Avenue,3105.0,4.0,6.0,Multi-family,40.86930084,-73.8348999,Baychester,575000.0
+334 Pennyfield Avenue,1188.0,2.0,3.0,House,40.81610107,-73.80840302,Locust Point,439900.0
+1372 Zerega Avenue,3021.0,3.0,9.0,Multi-family,40.83670044,-73.84629822,Westchester Village,669000.0
+934 East 165th Street,3001.0,6.0,7.0,Multi-family,40.82369995,-73.89610291,Longwood,699000.0
+1960 East Tremont Avenue #7B,686.0,1.0,1.0,Condo,40.83990097,-73.85990143,Parkchester,125000.0
+1015 Summit Avenue #5C,650.0,1.0,1.0,Co-op,40.83380127,-73.93019867,Highbridge,72000.0
+1618 Bayview Avenue,1724.0,1.0,2.0,House,40.84659958,-73.81710052,Country Club,225000.0
+2201 Palmer Avenue #1A,750.0,1.0,1.0,Co-op,40.86009979,-73.82589722,Co-op City,120000.0
+1425 Thieriot Avenue #4G,925.0,1.0,2.0,Co-op,40.83739853,-73.86569977,Parkchester,150000.0
+1506 Overing Street #7C,750.0,1.0,1.0,Co-op,40.8409996,-73.84549713,Westchester Village,105000.0
+2685 Creston Avenue #2D,915.0,1.0,1.0,Co-op,40.86759949,-73.89510345,Fordham,175000.0
+850 Dean Avenue #850-2,1275.0,2.0,2.0,Condo,40.83309937,-73.81610107,Throgs Neck,689000.0
+3962 Bronx Boulevard,2680.0,3.0,7.0,Multi-family,40.8885994,-73.86419678,Wakefield,599000.0
+2630 Kingsbridge Terrace #4Y,800.0,1.0,1.0,Co-op,40.86940002,-73.90609741,University Heights,135000.0
+335 East 209th Street #B7,850.0,1.0,1.0,Co-op,40.87689972,-73.87419891,Norwood,102000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+2750 Olinville Avenue #2G,900.0,1.0,2.0,Co-op,40.86629868,-73.86810303,Bronxwood,170000.0
+600 Clarence Avenue #2I,740.0,1.0,1.0,Condo,40.82799911,-73.81349945,Throgs Neck,349000.0
+24 Pennyfield Avenue #2E,803.0,1.0,2.0,Condo,40.80989838,-73.8022995,Locust Point,369000.0
+5709 Faraday Avenue,2184.0,4.0,8.0,Multi-family,40.90499878,-73.89969635,Riverdale,999000.0
+11 West 184th Street,1920.0,3.0,5.0,House,40.86090088,-73.90299988,University Heights,369000.0
+750 East 223rd Street #A,3064.0,6.0,9.0,Multi-family,40.88570023,-73.85949707,Wakefield,699000.0
+2411 Frisby Avenue,11370.0,16.0,27.0,Multi-family,40.83850098,-73.8483963,Westchester Village,2695000.0
+189 Fordham Street,672.0,1.0,1.0,House,40.84780121,-73.78469849,City Island,379000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+1966 Newbold Avenue #408,800.0,1.0,1.0,Co-op,40.83209991,-73.85970306,Castle Hill,135000.0
+1624 Nelson Avenue,2669.0,6.0,6.0,Multi-family,40.8465004,-73.91889954,Morris Heights,669000.0
+1628 Nelson Avenue,2478.0,6.0,6.0,Multi-family,40.84659958,-73.91880035,Morris Heights,649000.0
+1510 Unionport Road #7E,613.0,1.0,1.0,Condo,40.83860016,-73.85649872,Parkchester,127000.0
+2199 Holland Avenue #3K,800.0,1.0,1.0,Co-op,40.85630035,-73.86599731,Bronxdale,122000.0
+1783 Merrill Street,1760.0,2.0,6.0,Multi-family,40.8368988,-73.86859894,Parkchester,550000.0
+81 Metropolitan Oval #2F,839.0,1.0,2.0,Condo,40.83769989,-73.86199951,Parkchester,195000.0
+3614 Johnson Avenue #6A,1818.0,3.0,3.0,Condo,40.88710022,-73.90920258,Spuyten Duyvil,899000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+173 Rochelle Street,2100.0,2.0,4.0,House,40.83940125,-73.78199768,City Island,749000.0
+2967 Perry Avenue,3346.0,3.0,10.0,House,40.87009811,-73.8844986,Bedford Park,829000.0
+3759 Barnes Avenue,1980.0,2.0,4.0,House,40.88230133,-73.86049652,Williamsbridge,380000.0
+2250 Turnbull Avenue,1968.0,2.0,4.0,House,40.82419968,-73.84670258,Castle Hill,675000.0
+2735 Holland Avenue,1524.0,2.0,3.0,House,40.86669922,-73.86569977,Bronxwood,409999.0
+1336 Chisholm Street,2901.0,3.0,6.0,House,40.83169937,-73.89569855,Crotona Park East,379000.0
+646 Underhill Avenue,2748.0,3.0,6.0,Multi-family,40.81890106,-73.85929871,Soundview,670000.0
+180 Davis Avenue #12A,1124.0,2.0,3.0,Condo,40.81230164,-73.82389832,Throgs Neck,409000.0
+224 Betts Avenue,550.0,1.0,3.0,House,40.81100082,-73.84999847,Soundview,375000.0
+2135 Crotona Avenue #3A,900.0,1.0,2.0,Condo,40.84939957,-73.88819885,East Tremont,249000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+62 Tier Street,662.0,1.0,2.0,House,40.84790039,-73.78929901,City Island,390000.0
+1948 Bathgate Avenue,2047.0,2.0,3.0,House,40.84759903,-73.89640045,East Tremont,179900.0
+2634 Miles Avenue,2500.0,4.0,6.0,Multi-family,40.81529999,-73.82620239,Throgs Neck,950000.0
+733 Van Nest Avenue,2104.0,1.0,3.0,Multi-family,40.84420013,-73.86430359,Van Nest,549995.0
+2668 Miles Avenue #O2,920.0,2.0,3.0,Condo,40.81560135,-73.82499695,Throgs Neck,320000.0
+941 Magenta Street,2272.0,2.0,4.0,Multi-family,40.87450027,-73.85949707,Williamsbridge,625000.0
+3255 Randall Avenue #1A,850.0,1.0,1.0,Co-op,40.83029938,-73.81420135,Throgs Neck,115000.0
+4024 Secor Avenue,2090.0,3.0,4.0,Multi-family,40.89139938,-73.83170319,Edenwald,539000.0
+2805 Creston Avenue #4B,828.0,1.0,2.0,Condo,40.87020111,-73.89289856,Fordham,214888.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+4123 Wickham Avenue,1614.0,2.0,3.0,House,40.89260101,-73.84860229,Wakefield,289000.0
+555 Kappock Street #17E,1340.0,2.0,3.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,548500.0
+3710 Rombouts Avenue,1396.0,2.0,3.0,House,40.88690186,-73.82990265,Eastchester,359000.0
+1506 Overing Street #2A,750.0,1.0,1.0,Co-op,40.8409996,-73.84549713,Westchester Village,115000.0
+2081 Cedar Avenue,1280.0,1.0,3.0,House,40.86000061,-73.91459656,University Heights,350000.0
+3248 Tierney Place,990.0,3.0,3.0,House,40.8144989,-73.80000305,Locust Point,749000.0
+200 Davis Avenue #4C,863.0,2.0,2.0,Condo,40.81370163,-73.82409668,Throgs Neck,335000.0
+3255 Randall Avenue #5B,1200.0,1.0,2.0,Co-op,40.83029938,-73.81420135,Throgs Neck,199000.0
+1984 Gildersleeve Avenue,2000.0,2.0,4.0,House,40.80960083,-73.85169983,Soundview,460000.0
+814B Tilden Street #5K,1023.0,1.0,1.0,Co-op,40.87649918,-73.86039734,Williamsbridge,98000.0
+1863 Hunt Avenue,992.0,2.0,2.0,House,40.84719849,-73.8660965,Van Nest,339000.0
+2666 Miles Avenue #P3,925.0,2.0,3.0,Condo,40.81560135,-73.82499695,Throgs Neck,325000.0
+1700 Harding Park,1440.0,1.0,2.0,House,40.81060028,-73.85720062,Soundview,459000.0
+2245 Lafayette Avenue,1552.0,1.0,3.0,House,40.82369995,-73.84729767,Castle Hill,339000.0
+1576 Unionport Road #5A,673.0,1.0,1.0,Condo,40.83990097,-73.85990143,Parkchester,115000.0
+2199 Holland Avenue #3H,1100.0,1.0,2.0,Co-op,40.85630035,-73.86599731,Bronxdale,135000.0
+1030 Prospect Avenue,3917.0,2.0,3.0,Multi-family,40.82440186,-73.89929962,Longwood,545000.0
+3258 Philip Avenue,2288.0,2.0,5.0,Multi-family,40.83129883,-73.81590271,Throgs Neck,2600000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+1027 Leggett Avenue #2D,700.0,1.0,1.0,Co-op,40.81389999,-73.89920044,Woodstock,79000.0
+3255 Randall Avenue #2F,850.0,1.0,1.0,Co-op,40.83029938,-73.81420135,Throgs Neck,145000.0
+2199 Holland Avenue #4C,800.0,1.0,1.0,Co-op,40.85630035,-73.86599731,Bronxdale,104500.0
+843 East 225th Street,2000.0,2.0,5.0,Multi-family,40.88660049,-73.85590363,Wakefield,450000.0
+1125 East Tremont Avenue,3150.0,3.0,9.0,Multi-family,40.84019852,-73.87609863,Van Nest,1200000.0
+280 East 199th Street #11,12613.0,1.0,3.0,Multi-family,40.86959839,-73.88680267,Bedford Park,2500000.0
+525 West 235th Street #4E,1100.0,2.0,2.0,Co-op,40.88560104,-73.90830231,Spuyten Duyvil,324900.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+6535 Broadway #2A,650.0,1.0,1.0,Co-op,40.90660095,-73.89689636,Riverdale,124900.0
+2708 Schurz Avenue,2200.0,5.0,6.0,House,40.81340027,-73.82170105,Throgs Neck,699000.0
+1144 E 225,1894.0,2.5,5.0,Multi-family,40.88330078,-73.84780121,Edenwald,599000.0
+239 Buttrick Avenue,1150.0,1.5,3.0,House,40.8144989,-73.82440186,Throgs Neck,399000.0
+2621 Palisade Avenue #4A,1300.0,2.0,2.0,Co-op,40.88259888,-73.92150116,Riverdale,685000.0
+640 West 237th Street #15A,1541.0,2.5,2.0,Condo,40.88750076,-73.91259766,Riverdale,1500000.0
+525 West 238th Street #1B,1900.0,3.0,4.0,Co-op,40.88890076,-73.90840149,Spuyten Duyvil,639000.0
+55 East 190th Street #26,900.0,1.0,1.0,Co-op,40.86339951,-73.89880371,Fordham,159926.0
+3333 Henry Hudson Parkway West #9TV,1700.0,2.0,3.0,Co-op,40.88499832,-73.9151001,Riverdale,699000.0
+1506 Overing Street #1D,750.0,1.0,1.0,Co-op,40.8409996,-73.84549713,Westchester Village,108000.0
+600 Clarence Avenue #1C,1211.0,2.0,2.0,Condo,40.82799911,-73.81349945,Throgs Neck,499000.0
+2775 Morgan Avenue,2055.0,2.5,4.0,Townhouse,40.86729813,-73.84549713,Pelham Gardens,525000.0
+6122 Tyndall Avenue,2000.0,3.0,3.0,House,40.91040039,-73.90019989,Riverdale,775000.0
+5251 Fieldston Road,4032.0,3.0,4.0,House,40.89979935,-73.90170288,Fieldston,1425000.0
+239 Hosmer Avenue #1-2,2200.0,4.0,6.0,House,40.81359863,-73.82679749,Throgs Neck,729000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+1020 Grand Concourse #18N,1200.0,2.0,2.0,Co-op,40.8302002,-73.92009735,Concourse,479000.0
+640 West 237th Street #20A,3075.0,5.5,5.0,Condo,40.88750076,-73.91259766,Riverdale,4675000.0
+640 West 237th Street #12B,1768.0,3.5,3.0,Condo,40.88750076,-73.91259766,Riverdale,1460000.0
+640 West 237th Street #20B,2755.0,4.5,4.0,Condo,40.88750076,-73.91259766,Riverdale,3950000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+3777 Independence Avenue #7J,1035.0,1.0,2.0,Co-op,40.88909912,-73.9138031,Riverdale,364900.0
+6013 Huxley Avenue,1800.0,2.0,4.0,House,40.90810013,-73.89839935,Riverdale,678000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+3800 Blackstone Avenue #2S,1340.0,2.0,3.0,Condo,40.88909912,-73.91120148,Riverdale,824900.0
+2190 Boston Road #4F,735.0,1.0,1.0,Co-op,40.85609818,-73.86940002,Bronxdale,120000.0
+5644 Netherland Avenue #6G,900.0,1.0,2.0,Co-op,40.90520096,-73.90609741,Riverdale,229000.0
+3874 Cannon Place,1434.0,2.0,4.0,House,40.88359833,-73.89489746,Kingsbridge Heights,595000.0
+3601 Johnson Avenue #2F,850.0,1.0,1.0,Co-op,40.88710022,-73.91000366,Spuyten Duyvil,265000.0
+3635 Johnson Avenue #5K,750.0,1.0,1.0,Co-op,40.88759995,-73.91000366,Spuyten Duyvil,225000.0
+601 Pelham Parkway North #310,825.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,249000.0
+555 Kappock Street #6A,800.0,1.0,1.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,170000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+5440 Netherland Avenue #D23,850.0,1.0,1.0,Co-op,40.90250015,-73.90630341,Riverdale,235000.0
+853 Macy Place #6E,976.0,1.5,2.0,Co-op,40.81850052,-73.90180206,Woodstock,250000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+405 West 238th Street,1400.0,2.0,3.0,Multi-family,40.88669968,-73.90329742,Kingsbridge,590000.0
+2287 Johnson Avenue #6F,1096.0,2.0,2.0,Condo,40.87789917,-73.91889954,Spuyten Duyvil,639900.0
+3625 Oxford Avenue #6B,1013.0,2.0,2.0,Condo,40.88729858,-73.9088974,Spuyten Duyvil,565000.0
+757 E 219th Street,1662.0,3.0,4.0,House,40.88299942,-73.8608017,Williamsbridge,449999.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+2287 Johnson Avenue #14A,1154.0,2.0,2.0,Condo,40.87789917,-73.91889954,Spuyten Duyvil,629900.0
+1480 Thieriot Avenue #6L,1100.0,2.0,3.0,Co-op,40.83670044,-73.86499786,Parkchester,185000.0
+3750 Hudson Manor Terrace #1DW,750.0,1.0,1.0,Co-op,40.88890076,-73.91490173,Riverdale,205000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+3135 Johnson Avenue #14J,1450.0,2.0,3.0,Co-op,40.88280106,-73.91110229,Spuyten Duyvil,685000.0
+1638 Parkview Avenue,1828.0,1.5,3.0,House,40.84619904,-73.82720184,Pelham Bay,519900.0
+3220 Fairfield Avenue #8AB,1700.0,3.0,4.0,Condo,40.88470078,-73.91320038,Spuyten Duyvil,849000.0
+4705 Henry Hudson Parkway West #7F,800.0,1.0,1.0,Co-op,40.89500046,-73.90940094,Riverdale,245977.0
+803 East 161st Street,3400.0,3.0,12.0,Multi-family,40.82109833,-73.9029007,Woodstock,720000.0
+4215 Katonah Avenue,2120.0,3.0,4.0,Townhouse,40.89649963,-73.86730194,Woodlawn,550000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+815 Olmstead Avenue,1584.0,1.0,3.0,House,40.82320023,-73.85250092,Castle Hill,444999.0
+7 Harper Ct.,1581.0,3.0,5.0,Multi-family,40.88460159,-73.8348999,Edenwald,575000.0
+2685 Creston Avenue #2C,630.0,1.0,1.0,Co-op,40.86759949,-73.89510345,Fordham,129900.0
+3638 Oxford Avenue,3725.0,3.0,7.0,Multi-family,40.88740158,-73.90830231,Spuyten Duyvil,1299500.0
+4114 Wickham Avenue,2375.0,4.0,5.0,Multi-family,40.89250183,-73.84809875,Wakefield,649000.0
+828 Gerard Avenue #2F,700.0,1.0,1.0,Co-op,40.82600021,-73.92549896,Concourse,179999.0
+2550 Independence Avenue #6N,850.0,1.0,1.0,Co-op,40.88000107,-73.91970062,Spuyten Duyvil,259000.0
+2621 Palisade Avenue #17G,800.0,1.0,1.0,Co-op,40.88259888,-73.92150116,Spuyten Duyvil,269000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+5240 Independence Avenue,7000.0,7.5,7.0,House,40.90100098,-73.91030121,Riverdale,3995000.0
+5715 Mosholu Avenue #6B,1100.0,2.0,2.0,Co-op,40.90579987,-73.90010071,Riverdale,284900.0
+640 West 237th Street #16A,1541.0,2.5,2.0,Condo,40.88750076,-73.91259766,Riverdale,1375000.0
+5060 Tibbett,3027.0,2.5,4.0,House,40.89680099,-73.8993988,Fieldston,1039000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+4215 Katonah Avenue,2120.0,2.0,4.0,House,40.89649963,-73.86730194,Woodlawn,575000.0
+1506 Overing Street #3D,650.0,1.0,1.0,Co-op,40.8409996,-73.84549713,Westchester Village,149000.0
+5910 Fieldston Road,3313.0,3.0,6.0,Multi-family,40.90710068,-73.90000153,Riverdale,1295000.0
+5800 Arlington Avenue #3L,800.0,1.0,1.0,Co-op,40.90819931,-73.90550232,Riverdale,229000.0
+2500 Johnson Avenue #15C,1250.0,2.0,2.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,549999.0
+1948 Chatterton Avenue,3840.0,3.0,5.0,Multi-family,40.82720184,-73.85769653,Castle Hill,799000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+2019 Gildersleeve,1718.0,2.0,5.0,Multi-family,40.81019974,-73.85040283,Soundview,560000.0
+985 Boston Road,4876.0,3.0,8.0,Multi-family,40.82550049,-73.90789795,Morrisania,1150000.0
+1452 Bryant Avenue,3300.0,3.0,8.0,Multi-family,40.83129883,-73.88800049,Crotona Park East,1100000.0
+3013 Kingsland Avenue,4750.0,2.0,5.0,Multi-family,40.87039948,-73.8411026,Baychester,640000.0
+860 Grand Concourse #2R,751.0,1.0,2.0,Co-op,40.8260994,-73.92240143,Concourse,285000.0
+861 Underhill Avenue #49C,939.0,1.5,2.0,Condo,40.82289886,-73.86070251,Soundview,269000.0
+146 East 176th Street,1702.0,2.0,6.0,Multi-family,40.84769821,-73.90830231,Mt. Hope,599000.0
+3015 Paulding Avenue,1910.0,3.0,7.0,Multi-family,40.87009811,-73.85890198,Bronxwood,649000.0
+1600 Parkview Avenue #3C,924.0,1.0,2.0,Condo,40.84540176,-73.82679749,Pelham Bay,315000.0
+946 Hoe Avenue #5B,1300.0,1.0,4.0,Co-op,40.82229996,-73.89019775,Longwood,115000.0
+5998 Palisade Avenue,3452.0,2.5,4.0,House,40.91040039,-73.9068985,Riverdale,1750000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+5615 Netherland Avenue #4C,750.0,1.0,1.0,Co-op,40.90520096,-73.90609741,Riverdale,145000.0
+3638 Oxford Avenue,3725.0,5.0,7.0,House,40.88740158,-73.90830231,Spuyten Duyvil,1299500.0
+1938 East Tremont Avenue #7H,616.0,1.0,1.0,Condo,40.83990097,-73.85990143,Parkchester,149000.0
+1132 Underhill Avenue,1320.0,2.0,3.0,Multi-family,40.82949829,-73.86180115,Soundview,460000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+4144 Bronxwood Avenue,2724.0,2.0,5.0,Multi-family,40.88980103,-73.85220337,Wakefield,579000.0
+3206 Fairfield Avenue #4E,875.0,1.0,2.0,Co-op,40.8844986,-73.91329956,Spuyten Duyvil,276000.0
+1165 Fulton Avenue #2F,650.0,1.0,1.0,Co-op,40.82949829,-73.90570068,Morrisania,69000.0
+644 Saint Lawrence Avenue,3040.0,2.0,8.0,Multi-family,40.81840134,-73.86389923,Soundview,639000.0
+3347 Mickle Avenue,1440.0,1.0,3.0,House,40.87620163,-73.84519958,Laconia,399000.0
+764 East 213th Street,4980.0,5.0,16.0,Multi-family,40.87820053,-73.86250305,Williamsbridge,949000.0
+360 East 198th Street,2200.0,3.0,5.0,Multi-family,40.8667984,-73.88680267,Fordham,599000.0
+5700 Arlington Avenue #4J,1400.0,2.0,3.0,Co-op,40.9070015,-73.90579987,Riverdale,430000.0
+1310 Teller Avenue,1392.0,1.0,4.0,House,40.83470154,-73.91000366,Concourse,399000.0
+3536 Cambridge Avenue #4A,1098.0,2.0,3.0,Condo,40.88619995,-73.9076004,Spuyten Duyvil,639000.0
+3536 Cambridge Avenue #5D,802.0,2.0,2.0,Condo,40.88619995,-73.9076004,Spuyten Duyvil,505000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+824 E 225th Street,3498.0,3.0,8.0,Multi-family,40.88639832,-73.85669708,Wakefield,605000.0
+2390 Palisade Avenue #1G,830.0,1.0,1.0,Co-op,40.87960052,-73.92040253,Spuyten Duyvil,169000.0
+1015 Anderson Avenue #1D,900.0,1.0,2.0,Co-op,40.83259964,-73.9272995,Highbridge,75000.0
+1165 Fulton Avenue #2A,1300.0,1.0,3.0,Other type,40.82949829,-73.90570068,Morrisania,179000.0
+5355 Henry Hudson Pkwy West #PHB,780.0,1.0,1.0,Co-op,40.90129852,-73.9068985,Riverdale,209000.0
+3777 Independence Avenue #1N,700.0,1.0,1.0,Co-op,40.88909912,-73.9138031,Riverdale,150000.0
+5022 Arlington Avenue,4500.0,5.5,5.0,House,40.89849854,-73.90869904,Riverdale,2995000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+5245 Netherland Avenue,2727.0,5.0,6.0,House,40.9007988,-73.90769958,Riverdale,1725000.0
+255 Fieldston Terrace #3C,1200.0,2.0,3.0,Co-op,40.89619827,-73.8986969,Fieldston,438500.0
+290 West 232nd Street #5B,1000.0,1.0,2.0,Co-op,40.88140106,-73.90730286,Kingsbridge,298000.0
+6120 Fieldston Road,2625.0,2.0,6.0,House,40.91030121,-73.89929962,Riverdale,848000.0
+4229 Wilder Avenue,1600.0,1.5,3.0,House,40.89659882,-73.84349823,Bronx,395000.0
+3096 Fearn Place,1354.0,2.0,3.0,House,40.81159973,-73.80400085,Locust Point,449500.0
+728 East 221st Street #2A,824.0,2.0,2.0,Condo,40.88439941,-73.86109924,Williamsbridge,245000.0
+645 West 239th Street #3G,1450.0,2.0,2.0,Co-op,40.88999939,-73.91239929,Riverdale,359900.0
+122 Pilot Street,1836.0,2.0,3.0,House,40.84090042,-73.78489685,City Island,499021.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+3135 Johnson Avenue #9J,1450.0,2.0,3.0,Co-op,40.88280106,-73.91110229,Spuyten Duyvil,674900.0
+5819 Fieldston Road,2018.0,2.0,4.0,Multi-family,40.90599823,-73.90080261,Riverdale,825000.0
+650 E. 219th Street,1600.0,2.0,5.0,Multi-family,40.88389969,-73.86470032,Williamsbridge,679000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+777 Beck Street #1,3324.0,6.0,9.0,Multi-family,40.81700134,-73.89839935,Woodstock,1190000.0
+3363 Sedgwick Avenue #2D,700.0,1.0,1.0,Co-op,40.88000107,-73.89710236,Kingsbridge Heights,124999.0
+2727 Palisade Avenue #16A,800.0,1.0,1.0,Co-op,40.8830986,-73.92099762,Spuyten Duyvil,369000.0
+5700 Arlington Avenue #4X,900.0,1.0,2.0,Co-op,40.9070015,-73.90579987,Riverdale,325000.0
+5800 Arlington Avenue #19X,850.0,1.0,2.0,Co-op,40.90819931,-73.90550232,Riverdale,299000.0
+5041 Fieldston Road,2725.0,3.5,4.0,House,40.89770126,-73.90170288,Fieldston,1450000.0
+628 West 238th Street #3A,1480.0,3.0,2.0,Condo,40.88880157,-73.91200256,Riverdale,840000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+629 Kappock Street #3N,846.0,1.0,1.0,Co-op,40.88029861,-73.917099,Spuyten Duyvil,189000.0
+495 East 178th Street #1J,704.0,1.0,1.0,Co-op,40.84830093,-73.896698,East Tremont,44500.0
+3661 Harper Avenue,2214.0,2.0,5.0,Multi-family,40.88600159,-73.83370209,Edenwald,650000.0
+640 West 237th Street #5A,1427.0,2.0,2.0,Condo,40.88750076,-73.91259766,Riverdale,965000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+333 Swinton Avenue,1568.0,2.0,3.0,House,40.81850052,-73.82129669,Throgs Neck,469000.0
+5050 Tibbett Avenue,3566.0,3.5,4.0,House,40.89659882,-73.89929962,Fieldston,1545000.0
+860 Grand Concourse #2A,750.0,1.0,1.0,Co-op,40.8260994,-73.92240143,Concourse,269000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+2 Hudson River Road,1788.0,2.0,3.0,House,40.90330124,-73.90969849,Riverdale,1560000.0
+3333 Henry Hudson Parkway West #23C,648.0,1.0,1.0,Co-op,40.88499832,-73.9151001,Riverdale,225000.0
+850 Dean Avenue #2,1275.0,2.0,2.0,Condo,40.83309937,-73.81610107,Throgs Neck,689000.0
+2727 Palisade Avenue #16K,1200.0,2.0,2.0,Co-op,40.8830986,-73.92099762,Spuyten Duyvil,639000.0
+601 Pelham Parkway North #410,825.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,239000.0
+5355 Henry Hudson Pkwy #9D,850.0,1.0,1.0,Co-op,40.90129852,-73.9068985,Riverdale,280000.0
+3125 Tibbett Avenue #5B,1100.0,1.5,3.0,Co-op,40.88180161,-73.90809631,Kingsbridge,369000.0
+5900 Arlington Avenue #6D,700.0,1.0,1.0,Co-op,40.90919876,-73.90540314,Riverdale,229000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+4525 Henry Hudson Parkway #105,1100.0,1.0,2.0,Co-op,40.89139938,-73.90930176,Riverdale,280000.0
+1714 Matthews Avenue,1528.0,2.0,3.0,House,40.84519958,-73.86109924,Morris Park,449999.0
+3031 Netherland Avenue,2950.0,4.0,6.0,House,40.88219833,-73.91259766,Spuyten Duyvil,1385000.0
+555 Kappock Street #18A,750.0,1.0,1.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,234000.0
+3901 Independence Avenue #5L,832.0,1.0,1.0,Co-op,40.89020157,-73.91369629,Riverdale,199000.0
+315 West 232nd Street #2G,775.0,1.0,1.0,Co-op,40.88230133,-73.90730286,Kingsbridge,189900.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+3299 Cambridge Avenue #7F,1300.0,2.0,2.0,Co-op,40.88489914,-73.90850067,Spuyten Duyvil,389000.0
+293 William Avenue,1900.0,1.5,3.0,House,40.84629822,-73.7888031,City Island,539021.0
+860 Grand Concourse #1N,1500.0,2.0,4.0,Co-op,40.8260994,-73.92240143,Concourse,399000.0
+1995 Arthur Avenue,1493.0,2.0,6.0,Multi-family,40.84740067,-73.89309692,East Tremont,275000.0
+512 W 261st Street,2560.0,4.0,4.0,House,40.90999985,-73.90380096,Riverdale,1250000.0
+511 West 232nd Street #W35,700.0,1.0,1.0,Co-op,40.88290024,-73.90879822,Spuyten Duyvil,219000.0
+434 Beach Avenue,1910.0,2.0,4.0,House,40.81389999,-73.86190033,Soundview,410000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+601 Pelham Parkway North #212,880.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,195000.0
+1535 East 172nd Street,2480.0,5.5,6.0,Multi-family,40.83150101,-73.87909698,Soundview,749000.0
+1352 University Avenue,3000.0,3.0,9.0,Multi-family,40.84180069,-73.92630005,Highbridge,789000.0
+447 Olmstead Avenue,1594.0,2.0,3.0,House,40.81570053,-73.85079956,Castle Hill,439000.0
+3327 Radio Drive,1936.0,1.5,3.0,House,40.84320068,-73.81700134,Country Club,649000.0
+6495 Broadway #2V,750.0,1.0,1.0,Co-op,40.90570068,-73.89679718,Riverdale,179000.0
+454 Quincy,1848.0,1.5,2.0,House,40.82120132,-73.8214035,Throgs Neck,429000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+640 West 237th Street #2D,1445.0,2.0,2.0,Condo,40.88750076,-73.91259766,Riverdale,966000.0
+953 East 228th Street,1474.0,3.0,4.0,House,40.88759995,-73.85160065,Wakefield,519000.0
+665 Thwaites Place #6V,600.0,1.0,1.0,Co-op,40.85919952,-73.86910248,Bronxwood,135000.0
+2465 Palisade Avenue #1C,900.0,1.0,1.0,Co-op,40.87960052,-73.92160034,Spuyten Duyvil,359000.0
+3530 Henry Hudson Parkway #7O,1300.0,2.0,2.0,Co-op,40.88629913,-73.91200256,Spuyten Duyvil,465000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+4241 Boyd Avenue,1400.0,2.0,3.0,House,40.89479828,-73.8513031,Wakefield,350000.0
+75 West 238th Street #4E,1100.0,2.0,2.0,Co-op,40.8821,-73.8968,Kingsbridge Heights,329000.0
+1 Windward Lane #2,1673.0,2.5,2.0,Condo,40.84629822,-73.78269958,City Island,529021.0
+5700 Arlington Avenue #20D,700.0,1.0,1.0,Co-op,40.9070015,-73.90579987,Riverdale,199900.0
+3 Fordham Hill Oval #7G,965.0,1.0,2.0,Co-op,40.8647995,-73.90830231,University Heights,240000.0
+555 Kappock Street #6F,770.0,1.0,1.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,179000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+10 Pennyfield Avenue #8A,1080.0,1.0,2.0,Condo,40.80939865,-73.80220032,Locust Point,349021.0
+3751 Riverdale Avenue #4A,2101.0,3.5,4.0,Condo,40.88779831,-73.90769958,Riverdale,1100000.0
+1851 Mayflower Avenue,1584.0,3.0,4.0,House,40.84880066,-73.83439636,Pelham Bay,510000.0
+808 Freeman Street,2700.0,3.0,6.0,Multi-family,40.8302002,-73.89790344,Claremont,550000.0
+445 West 240th Street #1N,1051.0,1.0,2.0,Condo,40.88869858,-73.90399933,Riverdale,389000.0
+61 Bay Street,2003.0,2.0,2.0,Multi-family,40.84749985,-73.78919983,City Island,499021.0
+4643 Carpenter Avenue,900.0,2.0,3.0,Multi-family,40.90439987,-73.85340118,Wakefield,459000.0
+1144 East 225th,900.0,2.5,5.0,Multi-family,40.88330078,-73.84780121,Edenwald,599000.0
+4528 Barnes Avenue,1120.0,3.0,3.0,House,40.89929962,-73.85009766,Wakefield,449000.0
+6208 Tyndall Avenue,3036.0,2.0,6.0,Multi-family,40.91180038,-73.89969635,Riverdale,699007.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+3850 Sedgwick Avenue #4F,1000.0,1.0,2.0,Co-op,40.88249969,-73.89479828,Kingsbridge Heights,235000.0
+3220 Arlington Avenue #3D,2237.0,3.5,3.0,Condo,40.88460159,-73.91200256,Spuyten Duyvil,1345000.0
+290 West 232nd Street #19D,1100.0,1.0,2.0,Co-op,40.88140106,-73.90730286,Kingsbridge,309900.0
+555 Kappock Street #6P,850.0,1.0,1.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,264900.0
+4643 Carpenter Avenue,1800.0,2.0,3.0,House,40.90439987,-73.85340118,Wakefield,459000.0
+4499 Henry Hudson Parkway #5D,1250.0,2.0,2.0,Co-op,40.89070129,-73.90930176,Riverdale,309900.0
+3850 Hudson Manor Terrace #3DW,1100.0,2.0,2.0,Co-op,40.88949966,-73.91480255,Riverdale,369000.0
+629 Kappock Street #6D,1000.0,1.0,2.0,Co-op,40.88029861,-73.917099,Spuyten Duyvil,279000.0
+5900 Arlington Avenue #2C,1100.0,2.0,2.0,Co-op,40.90919876,-73.90540314,Riverdale,440000.0
+1506 Overing Street #2C,600.0,1.0,1.0,Co-op,40.8409996,-73.84549713,Westchester Village,135000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+2866 Lamport Place,2637.0,2.0,5.0,Multi-family,40.82440186,-73.82189941,Throgs Neck,750000.0
+843 E 221st Street,1400.0,3.0,3.0,House,40.88370132,-73.85749817,Williamsbridge,399900.0
+3850 Sedgwick Avenue #2G,1000.0,1.0,2.0,Co-op,40.88249969,-73.89479828,Kingsbridge Heights,240000.0
+1937 Hone Avenue,3000.0,3.0,6.0,Multi-family,40.85160065,-73.85720062,Pelham Parkway,799995.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+820 Boynton Avenue #14M,733.0,1.0,1.0,Co-op,40.82030106,-73.87560272,Soundview,195000.0
+875 Morrison Avenue #5E,963.0,1.0,2.0,Co-op,40.82170105,-73.87349701,Soundview,195000.0
+875 Morrison Avenue #1B,963.0,1.0,2.0,Condo,40.82170105,-73.87349701,Soundview,190000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+1618 Bayview Avenue,1724.0,1.0,2.0,House,40.84659958,-73.81710052,Country Club,225000.0
+880 Boynton Avenue #3B,963.0,1.0,2.0,Co-op,40.82139969,-73.87580109,Soundview,195000.0
+5640 Netherland Avenue #5G,1000.0,1.0,2.0,Co-op,40.90520096,-73.90609741,Riverdale,248000.0
+3616 Henry Hudson Parkway #3DN,1200.0,2.0,2.0,Co-op,40.88750076,-73.91100311,Spuyten Duyvil,349000.0
+824 E. 229th Street,2850.0,4.5,6.0,Multi-family,40.8891983,-73.85510254,Wakefield,669000.0
+555 Kappock Street #5E,1340.0,2.0,3.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,505000.0
+2621 Palisade Avenue #11J,1300.0,2.0,2.0,Co-op,40.88259888,-73.92150116,Spuyten Duyvil,699000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+825 Morrison Avenue #12M,733.0,1.0,1.0,Co-op,40.8205986,-73.87319946,Soundview,195000.0
+875 Morrison Avenue #16D,1211.0,1.5,3.0,Co-op,40.82170105,-73.87349701,Soundview,315000.0
+2104 Holland Avenue #2H,725.0,1.0,1.0,Co-op,40.85359955,-73.86530304,Bronxdale,135000.0
+820 Boynton Avenue #12A,733.0,1.0,1.0,Co-op,40.82030106,-73.87560272,Soundview,195000.0
+880 Boynton Avenue #8A,733.0,1.0,1.0,Co-op,40.82139969,-73.87580109,Soundview,185000.0
+880 Boynton Avenue #18D,1211.0,1.5,3.0,Co-op,40.82139969,-73.87580109,Soundview,325000.0
+825 Morrison Avenue #16B,963.0,1.0,2.0,Co-op,40.8205986,-73.87319946,Soundview,250000.0
+825 Morrison Avenue #16E,963.0,1.0,2.0,Co-op,40.8205986,-73.87319946,Soundview,250000.0
+3614 Johnson Avenue #2B,590.0,1.0,1.0,Condo,40.88710022,-73.90920258,Spuyten Duyvil,345000.0
+271 Graff Avenue,1260.0,2.5,3.0,House,40.81560135,-73.8239975,Throgs Neck,424999.0
+2962 Decatur Avenue #6D,822.0,1.0,1.0,Co-op,40.86830139,-73.8832016,Bedford Park,159000.0
+3200 Hull Avenue,1960.0,3.5,5.0,Townhouse,40.87409973,-73.876297,Norwood,649000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+1618 Bayview Avenue,1724.0,1.0,2.0,House,40.84659958,-73.81710052,Country Club,225000.0
+235 Longstreet Avenue,900.0,1.0,2.0,House,40.81959915,-73.80670166,Throgs Neck,289000.0
+3 Fordham Hill Oval #17G,965.0,1.5,2.0,Co-op,40.8647995,-73.90830231,University Heights,215000.0
+1443 Leland Avenue,8347.0,8.0,18.0,Multi-family,40.83660126,-73.86470032,Parkchester,1200000.0
+6 Fordham Hill Oval #14C,965.0,1.5,2.0,Co-op,40.86520004,-73.90670013,University Heights,209000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+4525 Henry Hudson Parkway #903,1350.0,2.0,3.0,Co-op,40.89139938,-73.90930176,Riverdale,479999.0
+3017 Barker Avenue,1888.0,2.0,4.0,Multi-family,40.87020111,-73.86959839,Bronxwood,480000.0
+1262 Boynton Avenue,3198.0,4.0,7.0,Multi-family,40.8307991,-73.87860107,Soundview,680000.0
+5900 Arlington Avenue #7H,1000.0,1.0,2.0,Co-op,40.90919876,-73.90540314,Riverdale,325000.0
+645 West 239th Street #6G,1250.0,2.0,2.0,Co-op,40.88999939,-73.91239929,Riverdale,395000.0
+3520 Tryon Avenue #203,1000.0,1.0,2.0,Co-op,40.88090134,-73.876297,Norwood,189000.0
+3524 Barnes Avenue,1900.0,3.0,6.0,Multi-family,40.87749863,-73.86129761,Williamsbridge,589000.0
+434 West 250th Street,3000.0,3.0,4.0,House,40.89770126,-73.90609741,Fieldston,1800000.0
+555 Kappock Street #15G,1200.0,2.0,2.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,309000.0
+1966 Newbold Avenue #302,925.0,1.0,2.0,Co-op,40.83209991,-73.85970306,Castle Hill,150000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+2839 Collis Place,2322.0,3.0,2.0,Multi-family,40.81499863,-73.81749725,Throgs Neck,619000.0
+2011 Gildersleeve Avenue,2200.0,2.0,3.0,House,40.81010056,-73.85070038,Soundview,379000.0
+716 E 215th Street #4,5400.0,7.0,11.0,Multi-family,40.88010025,-73.86380005,Williamsbridge,810000.0
+3625 Oxford Avenue #6C,2002.0,2.0,4.0,Condo,40.88729858,-73.9088974,Spuyten Duyvil,1135000.0
+3671 Hudson Manor Terrace #10J,1200.0,2.0,2.0,Co-op,40.88819885,-73.91639709,Riverdale,490000.0
+3311 Giles Place #4D,850.0,1.0,1.0,Co-op,40.87889862,-73.89880371,Kingsbridge Heights,184999.0
+860 Grand Concourse #2H,1100.0,1.0,2.0,Co-op,40.8260994,-73.92240143,Concourse,399000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+4410 Cayuga Avenue #6C,1050.0,1.0,2.0,Co-op,40.89139938,-73.89900208,Fieldston,299000.0
+609 Kappock Street #5B,750.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,184500.0
+3625 Oxford Avenue #2A,1237.0,2.0,3.0,Condo,40.88729858,-73.9088974,Spuyten Duyvil,689000.0
+4901 Henry Hudson Parkway West #7J,1200.0,2.0,3.0,Co-op,40.89649963,-73.90910339,Riverdale,405000.0
+1332 Metropolitan Avenue #4D,800.0,1.0,2.0,Co-op,40.83420181,-73.86049652,Parkchester,129007.0
+1732 White Plains Rd,3000.0,5.0,10.0,Multi-family,40.84479904,-73.86560059,Van Nest,999500.0
+3636 Greystone Avenue #5M,1120.0,2.0,2.0,Co-op,40.88679886,-73.90519714,Riverdale,320000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+2962 Decatur Avenue #3A,756.0,1.0,1.0,Co-op,40.86830139,-73.8832016,Bedford Park,129000.0
+2244 Bronx Park East #5H,892.0,1.0,1.0,Co-op,40.85850143,-73.87049866,Bronxwood,199900.0
+679 West 239th Street #6K,750.0,1.0,1.0,Co-op,40.89020157,-73.91470337,Riverdale,174900.0
+2630 Kingsbridge Terrace #3Z,950.0,1.0,2.0,Co-op,40.86940002,-73.90609741,University Heights,199900.0
+512 Kappock Street #2J,810.0,1.0,1.0,Co-op,40.87739944,-73.91829681,Spuyten Duyvil,174900.0
+1932 Prospect Avenue,1850.0,3.0,4.0,House,40.84379959,-73.88929749,East Tremont,410000.0
+6300 Riverdale Avenue #1H,1100.0,2.0,2.0,Co-op,40.91279984,-73.90209961,Riverdale,220000.0
+4746 Iselin Avenue,3208.0,5.0,5.0,House,40.8973999,-73.9056015,Fieldston,2000000.0
+1618 Bayview Avenue,1724.0,1.0,2.0,House,40.84659958,-73.81710052,Country Club,225000.0
+3850 Hudson Manor Terrace #2H,1250.0,2.0,2.0,Co-op,40.88949966,-73.91480255,Riverdale,309500.0
+181 Buttrick Avenue #1B,863.0,1.0,2.0,Condo,40.81309891,-73.8239975,Throgs Neck,309000.0
+3935 Blackstone Avenue #12C,1250.0,2.0,2.0,Co-op,40.89039993,-73.91200256,Riverdale,549000.0
+4525 Henry Hudson Pkwy #B301,1250.0,1.5,2.0,Co-op,40.89139938,-73.90930176,Riverdale,430000.0
+2500 Johnson Avenue #18L,1250.0,2.0,2.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+1618 Bayview Avenue,1724.0,1.0,2.0,House,40.84659958,-73.81710052,Country Club,225000.0
+4465 Douglas Avenue #8M,750.0,1.0,1.0,Condo,40.88940048,-73.91750336,Riverdale,310000.0
+2545 Sedgewick Avenue #7G,900.0,1.0,1.0,Co-op,40.86759949,-73.90779877,University Heights,127000.0
+655 E 235th Street,1876.0,2.5,7.0,Multi-family,40.89559937,-73.85800171,Wakefield,567000.0
+4901 Henry Hudson Pkwy #10L,750.0,1.0,1.0,Co-op,40.89649963,-73.90910339,Riverdale,199000.0
+2211 Boller Avenue,1760.0,2.0,4.0,House,40.86040115,-73.82499695,Co-op City,499000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+3135 Johnson Avenue #7H,1500.0,2.0,3.0,Co-op,40.88280106,-73.91110229,Spuyten Duyvil,674900.0
+427 East 143rd Street,1840.0,4.0,5.0,Multi-family,40.81190109,-73.91950226,North New York,925000.0
+3850 Sedgwick Avenue #9J,1400.0,2.0,3.0,Co-op,40.88249969,-73.89479828,Kingsbridge Heights,399999.0
+609 Kappock Street #4E,700.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,160000.0
+4525 Henry Hudson Parkway #204,1350.0,2.0,3.0,Co-op,40.89139938,-73.90930176,Riverdale,469999.0
+5900 Arlington Avenue #2T,750.0,1.0,1.0,Co-op,40.90919876,-73.90540314,Riverdale,224000.0
+5900 Arlington Avenue #15A,750.0,1.0,1.0,Co-op,40.90919876,-73.90540314,Riverdale,185000.0
+3363 Sedgewick Avenue #6R,800.0,1.0,2.0,Co-op,40.88000107,-73.89710236,Kingsbridge Heights,168500.0
+1910 Pelham Pkwy South #4C,1100.0,1.5,2.0,Co-op,40.85540009,-73.82879639,Pelham Bay,274500.0
+3777 Independence Avenue #4E,550.0,1.0,1.0,Co-op,40.88909912,-73.9138031,Riverdale,139000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+1069 Intervale Avenue,3312.0,3.0,6.0,Multi-family,40.82519913,-73.89720154,Longwood,749000.0
+2550 Independence Avenue #7F,800.0,1.0,1.0,Co-op,40.88000107,-73.91970062,Spuyten Duyvil,199000.0
+2500 Johnson Avenue #1E,850.0,1.0,1.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,250000.0
+4705 Henry Hudson Parkway West #14G,750.0,1.0,1.0,Co-op,40.89500046,-73.90940094,Riverdale,245000.0
+4499 Henry Hudson Parkway #4E,750.0,1.0,1.0,Co-op,40.89070129,-73.90930176,Riverdale,164900.0
+2727 Palisade Avenue #7L,775.0,1.0,1.0,Co-op,40.8830986,-73.92099762,Spuyten Duyvil,329000.0
+4746 Iselin Avenue,4061.0,5.0,5.0,House,40.8973999,-73.9056015,Fieldston,2000000.0
+3656 Johnson Avenue #3D,1150.0,1.0,2.0,Co-op,40.88819885,-73.90899658,Spuyten Duyvil,349000.0
+5653 Post Road,1232.0,2.5,4.0,House,40.90459824,-73.89769745,Riverdale,765000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+19 Island Point #19 #19,2420.0,3.5,3.0,Condo,40.84749985,-73.78250122,City Island,968000.0
+353 Newman Avenue,1900.0,1.0,2.0,House,40.8132019,-73.8553009,Soundview,399000.0
+3656 Johnson Avenue #4G,800.0,1.0,1.0,Co-op,40.88819885,-73.90899658,Spuyten Duyvil,150000.0
+6601 Broadway #2L,1000.0,1.0,2.0,Co-op,40.90859985,-73.89700317,Riverdale,230000.0
+837 E 222nd Street,2110.0,1.0,3.0,House,40.88460159,-73.8572998,Wakefield,450000.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+830 E 223rd Street,2057.0,1.0,3.0,House,40.88489914,-73.85739899,Wakefield,319000.0
+1986 Belmont Avenue,4460.0,3.0,8.0,Multi-family,40.84659958,-73.89099884,East Tremont,765000.0
+6200 Riverdale Avenue #3H,745.0,1.0,2.0,Co-op,40.9117012,-73.90229797,Riverdale,169000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+258 Robinson Avenue,2400.0,2.0,5.0,Multi-family,40.81470108,-73.8259964,Throgs Neck,659000.0
+2727 Palisade Avenue #3L,800.0,1.0,1.0,Co-op,40.8830986,-73.92099762,Spuyten Duyvil,220000.0
+2727 Palisade Avenue #5B,1200.0,2.0,2.0,Co-op,40.8830986,-73.9213028,Spuyten Duyvil,450000.0
+2395 Palisade Avenue,9876.0,12.0,19.0,Townhouse,40.87919998,-73.9210968,Spuyten Duyvil,2595000.0
+4601 Henry Hudson Parkway West #B2,1200.0,1.0,2.0,Co-op,40.89390182,-73.90940094,Riverdale,575000.0
+351 West 262nd Street,3425.0,4.0,4.0,House,40.91130066,-73.89929962,Riverdale,1450000.0
+601 Kappock Street #5E,850.0,1.0,1.0,Co-op,40.87900162,-73.91609955,Spuyten Duyvil,174900.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+3220 Arlington Avenue #8A,1902.0,2.5,3.0,Condo,40.88460159,-73.91200256,Spuyten Duyvil,1465000.0
+5550 Fieldston Road #4F,800.0,1.0,1.0,Co-op,40.90309906,-73.90039825,Riverdale,165000.0
+3475 Greystone Avenue #6A,700.0,1.0,1.0,Co-op,40.88499832,-73.9068985,Riverdale,175000.0
+3635 Johnson Avenue #1A,1200.0,2.0,2.0,Co-op,40.88759995,-73.91000366,Spuyten Duyvil,310000.0
+1523 Bayview Avenue,1368.0,1.0,2.0,House,40.84550095,-73.81770325,Country Club,519500.0
+6300 Riverdale Avenue #3K,925.0,1.0,1.0,Co-op,40.91279984,-73.90209961,Riverdale,184900.0
+6300 Riverdale Avenue #6C,800.0,1.0,1.0,Co-op,40.91279984,-73.90209961,Riverdale,165000.0
+640 West 237th Street #17C,2010.0,3.5,3.0,Condo,40.888229,-73.912123,Riverdale,1595000.0
+3363 Sedgwick Avenue #3C,1100.0,1.5,2.0,Co-op,40.88000107,-73.89710236,Kingsbridge Heights,249000.0
+445 W 240th Street #2K,850.0,1.0,1.0,Condo,40.88869858,-73.90399933,Riverdale,319000.0
+907 Saint Johns Avenue,4200.0,5.0,16.0,Multi-family,40.81600189,-73.90280151,Woodstock,879000.0
+6126 Tyndall Avenue,2500.0,1.5,3.0,House,40.91040039,-73.90000153,Riverdale,688000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+3190 Ampere Avenue,4127.0,4.0,10.0,House,40.84609985,-73.82160187,Country Club,915000.0
+3625 Oxford Avenue #4A,1300.0,2.0,3.0,Condo,40.88729858,-73.9088974,Spuyten Duyvil,738000.0
+1368 Kearney Avenue,3456.0,3.0,4.0,House,40.84120178,-73.82409668,Country Club,1695000.0
+3311 Giles Place #5N,750.0,1.0,1.0,Co-op,40.87889862,-73.89880371,Kingsbridge Heights,159000.0
+4525 Henry Hudson Parkway #506,1250.0,1.5,2.0,Co-op,40.89139938,-73.90930176,Riverdale,389000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+6035 Broadway #8P,950.0,1.5,2.0,Co-op,40.89210129,-73.89759827,Fieldston,295000.0
+640 West 237th Street #9D,1446.0,2.0,2.0,Condo,40.888229,-73.912123,Riverdale,1125000.0
+3988 Bronxwood Avenue #1HSE,4140.0,4.0,8.0,Building,40.88639832,-73.85410309,Wakefield,850000.0
+729 E 223rd Street,3474.0,4.0,6.0,Multi-family,40.88619995,-73.86000061,Bronx,660000.0
+4705 Henry Hudson Parkway West #8B,750.0,1.0,1.0,Co-op,40.89500046,-73.90940094,Riverdale,240000.0
+1275 Grant Avenue #9E,700.0,1.0,1.0,Co-op,40.83530045,-73.91429901,Concourse,130000.0
+2105 Wallace Avenue #2A,725.0,1.0,1.0,Co-op,40.853344,-73.86485,Bronxdale,134000.0
+132 W 169th Street #1,700.0,1.0,1.0,Co-op,40.83990097,-73.92469788,Highbridge,150000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+4705 Henry Hudson Parkway West #11F,750.0,1.0,1.0,Co-op,40.89500046,-73.90940094,Riverdale,218000.0
+5800 Arlington Avenue #3U,1500.0,2.0,3.0,Co-op,40.90819931,-73.90550232,Riverdale,399900.0
+305 West 246th Street,3769.0,4.5,8.0,Townhouse,40.89390182,-73.90129852,Fieldston,2750000.0
+3536 Cambridge Avenue #5E,1311.0,2.0,3.0,Condo,40.88619995,-73.9076004,Spuyten Duyvil,749000.0
+1311 Clay Avenue,3071.0,2.0,7.0,Multi-family,40.8348999,-73.90950012,Concourse,639000.0
+3515 Henry Hudson Parkway #2E,800.0,1.0,1.0,Co-op,40.88650131,-73.91320038,Riverdale,199000.0
+601 Kappock Street #4K,1200.0,2.0,2.0,Co-op,40.87900162,-73.91609955,Spuyten Duyvil,375000.0
+814 Tilden Street #4CA,612.0,1.0,1.0,Co-op,40.87649918,-73.86039734,Williamsbridge,85000.0
+1990 Arthur Avenue,2424.0,3.0,5.0,Multi-family,40.8470993,-73.89260101,East Tremont,599000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+589 Olmstead Avenue,3200.0,5.0,8.0,Multi-family,40.81750107,-73.85109711,Soundview,599000.0
+2744 Gifford Avenue,1600.0,2.0,3.0,House,40.83110046,-73.83239746,Schuylerville,529000.0
+2621 Palisade Avenue #2G,750.0,1.0,1.0,Co-op,40.88259888,-73.92150116,Spuyten Duyvil,239000.0
+3125 Tibbett Avenue #9E,700.0,1.0,1.0,Co-op,40.88180161,-73.90809631,Kingsbridge,169999.0
+5644 Netherland Avenue #4D,750.0,1.0,1.0,Co-op,40.90520096,-73.90609741,Riverdale,137500.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+2055 Saint Raymonds Avenue #ME,1028.0,1.0,3.0,Condo,40.83860016,-73.85649872,Parkchester,210000.0
+3475 Greystone Avenue #6H,850.0,1.0,2.0,Co-op,40.88499832,-73.9068985,Riverdale,169000.0
+764 E 227th Street,4000.0,4.0,6.0,Multi-family,40.88819885,-73.85749817,Wakefield,649000.0
+1075 Grand Concourse #2D,750.0,1.0,1.0,Co-op,40.83190155,-73.92070007,Concourse,175000.0
+5614 Netherland Avenue #6E,700.0,1.0,1.0,Co-op,40.90520096,-73.90609741,Riverdale,129000.0
+5235 Post Road #4G,750.0,1.0,1.0,Co-op,40.89830017,-73.89880371,Fieldston,145000.0
+3150 Wissman Avenue,928.0,1.0,3.0,House,40.82049942,-73.80780029,Throgs Neck,290000.0
+1706 Barnes Avenue,2000.0,2.0,3.0,House,40.84479904,-73.86199951,Van Nest,339000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+6299 Broadway #C8,1000.0,1.0,2.0,Co-op,40.89889908,-73.89759827,Fieldston,189500.0
+700 Brook Avenue #2A,1065.0,1.0,2.0,Co-op,40.81750107,-73.91290283,Woodstock,200000.0
+5500 Fieldston Road #1FF,800.0,1.0,1.0,Co-op,40.90309906,-73.90039825,Riverdale,129900.0
+640 West 237th Street #19C,2010.0,3.5,3.0,Condo,40.88750076,-73.91259766,Riverdale,1750000.0
+3901 Independence Avenue #6M,867.0,1.0,1.0,Co-op,40.89020157,-73.91369629,Riverdale,264900.0
+2500 Johnson Avenue #9G,1650.0,2.5,3.0,Co-op,40.87680054,-73.91770172,Spuyten Duyvil,679000.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+3475 Greystone Avenue #2E,900.0,1.0,1.0,Co-op,40.88499832,-73.9068985,Riverdale,189000.0
+5800 Arlington Avenue #1L,700.0,1.0,1.0,Co-op,40.90819931,-73.90550232,Riverdale,190000.0
+2400 Johnson Avenue #8A,900.0,1.0,1.0,Co-op,40.87639999,-73.91870117,Spuyten Duyvil,289900.0
+2796 Sedgwick Avenue #4D,878.0,2.0,2.0,Condo,40.87200165,-73.90190125,Kingsbridge Heights,349900.0
+5644 Netherland Avenue #3E,750.0,1.0,1.0,Co-op,40.90520096,-73.90609741,Riverdale,121495.0
+1823 Holland Avenue,1104.0,1.0,2.5,House,40.84629822,-73.86489868,Van Nest,469000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+1618 Bayview Avenue,1724.0,1.0,2.0,House,40.84659958,-73.81710052,Country Club,225000.0
+5700 Arlington Avenue #11C,1000.0,2.0,2.0,Co-op,40.9070015,-73.90579987,Riverdale,429000.0
+685 East 170th Street,2220.0,3.0,6.0,Multi-family,40.83359909,-73.89730072,Claremont,529000.0
+941 Jerome Avenue #3D,725.0,1.0,1.0,Co-op,40.83060074,-73.9280014,Highbridge,105000.0
+5235 Post Road #2G,750.0,1.0,1.0,Co-op,40.89830017,-73.89880371,Fieldston,199900.0
+2621 Palisade Avenue #15B,1700.0,2.0,3.0,Co-op,40.88259888,-73.92150116,Spuyten Duyvil,849900.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+750 Kappock Street #207,1400.0,2.0,2.0,Co-op,40.88180161,-73.92070007,Spuyten Duyvil,409999.0
+3333 Henry Hudson Parkway West #11E,1750.0,3.0,3.0,Co-op,40.88499832,-73.9151001,Riverdale,795000.0
+5635 Netherland Avenue #5B,750.0,1.0,1.0,Co-op,40.90520096,-73.90609741,Riverdale,125000.0
+75 W 238th Street #6K,900.0,1.0,2.0,Co-op,40.88249969,-73.896698,Kingsbridge Heights,219000.0
+2287 Johnson Avenue #15G,1812.0,2.0,3.0,Condo,40.87779999,-73.91899872,Spuyten Duyvil,1249000.0
+4740 Grosvenor Avenue,1500.0,3.0,4.0,House,40.89709854,-73.90480042,Fieldston,1575000.0
+132 W 169th Street #5B,800.0,1.0,1.0,Co-op,40.83990097,-73.92469788,Highbridge,170000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+660 Burke Avenue,3312.0,4.0,7.0,Multi-family,40.87120056,-73.86889648,Bronxwood,649000.0
+932 E 217,3024.0,4.0,6.0,Multi-family,40.87979889,-73.85679626,Williamsbridge,675000.0
+5500 Fieldston Road #5CC,850.0,1.0,1.0,Co-op,40.90309906,-73.90039825,Riverdale,179000.0
+957 Bruckner Boulevard,3300.0,3.0,11.0,Building,40.81949997,-73.89199829,Woodstock,799000.0
+2727 Palisade Avenue #7K,1200.0,2.0,2.0,Co-op,40.8830986,-73.92099762,Spuyten Duyvil,555000.0
+1281 E. 223rd Street,1400.0,1.5,3.0,House,40.88079834,-73.84470367,Edenwald,429000.0
+555 Kappock #17E,1340.0,2.0,3.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,548500.0
+640 West 237th Street #5A,1427.0,2.0,2.0,Condo,40.88750076,-73.91259766,Riverdale,965000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+2727 Palisade Avenue #10E,1200.0,2.0,2.0,Co-op,40.8830986,-73.9213028,Spuyten Duyvil,570000.0
+5022 Arlington Avenue,4500.0,5.5,5.0,House,40.89849854,-73.90869904,Riverdale,2995000.0
+3755 Henry Hudson Parkway West #5D,1350.0,2.0,3.0,Co-op,40.8893013,-73.91030121,Riverdale,510000.0
+2866 Marion Avenue #3D,1100.0,1.0,2.0,Co-op,40.86809921,-73.8852005,Bedford Park,185000.0
+5422A Sylvan Avenue,2407.0,3.5,5.0,House,40.90200043,-73.89839935,Riverdale,999900.0
+5615 Netherland Avenue #5A,1000.0,1.0,2.0,Co-op,40.90520096,-73.90609741,Riverdale,240000.0
+665 Thwaites Place #1V,850.0,1.0,1.0,Co-op,40.85919952,-73.86910248,Bronxwood,135000.0
+818 Dean Avenue,4000.0,3.0,5.0,House,40.83240128,-73.81559753,Throgs Neck,1250000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+3671 Hudson Manor Terrace #1H,1200.0,2.0,2.0,Co-op,40.88819885,-73.91639709,Riverdale,329000.0
+2760 Barnes Avenue,3600.0,4.0,7.0,Multi-family,40.86729813,-73.86319733,Bronxwood,849900.0
+132 W 169th Street #2B,800.0,1.0,1.0,Co-op,40.83990097,-73.92469788,Highbridge,200000.0
+3875 Waldo Avenue #11T,2000.0,2.0,3.0,Co-op,40.88909912,-73.90329742,Riverdale,785000.0
+3671 Hudson Manor Terrace #14H,1200.0,2.0,2.0,Co-op,40.88819885,-73.91639709,Riverdale,350000.0
+4729 Carpenter Avenue,2100.0,4.0,7.0,House,40.90539932,-73.8526001,Bronx,529999.0
+5275 Arlington Avenue,15000.0,11.0,11.0,Townhouse,40.90169907,-73.90859985,Riverdale,6999000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+865 Quincy Avenue,1656.0,2.0,5.0,Multi-family,40.828048,-73.827707,Throgs Neck,635000.0
+55 East 190th Street #28,1321.0,2.0,2.0,Co-op,40.86339951,-73.89880371,Fordham,299900.0
+23 Island Point #23,2420.0,3.5,3.0,Condo,40.84749985,-73.78250122,City Island,968000.0
+5240 Independence Avenue,7000.0,7.5,7.0,House,40.90100098,-73.91030121,Riverdale,3995000.0
+223 Whalen Street,1948.0,2.5,3.0,House,40.90850067,-73.89749908,Riverdale,775000.0
+3901 Independence Avenue #4F,1000.0,1.0,2.0,Co-op,40.89020157,-73.91369629,Riverdale,249000.0
+3519 Riverdale Avenue,2983.0,3.5,8.0,Multi-family,40.88589859,-73.90740204,Spuyten Duyvil,899900.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+1618 Bayview Avenue,1724.0,1.0,2.0,House,40.84659958,-73.81710052,Country Club,225000.0
+4465 Douglas Avenue #7K,1351.0,2.0,2.0,Condo,40.88940048,-73.91750336,Riverdale,799000.0
+5639 Netherland Avenue #1C,750.0,1.0,1.0,Co-op,40.90520096,-73.90609741,Riverdale,139000.0
+4524 Greystone Avenue,5000.0,3.5,4.0,House,40.89289856,-73.90239716,Fieldston,2650000.0
+750 Kappock Street #A2,1600.0,2.0,3.0,Co-op,40.88180161,-73.92070007,Spuyten Duyvil,550000.0
+5900 Arlington Avenue #2J,1300.0,2.0,2.0,Co-op,40.90919876,-73.90540314,Riverdale,420000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+330 Jackson Avenue,1500.0,2.0,3.0,House,40.80720139,-73.91120148,North New York,299000.0
+5276 Post Road,4202.0,1.0,2.0,House,40.89929962,-73.89810181,Fieldston,975000.0
+55 Island Point,1969.0,3.5,3.0,Condo,40.84749985,-73.78250122,City Island,858000.0
+4124 De Reimer Avenue,1096.0,2.0,2.0,House,40.89390182,-73.84279633,Edenwald,245000.0
+555 Kappock Street #3K,750.0,1.0,1.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,165000.0
+555 Kappock Street #16U,850.0,1.0,1.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,174900.0
+555 Kappock Street #8B,800.0,1.0,1.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,185000.0
+601 Pelham Parkway #205,750.0,1.0,1.0,Co-op,40.85779953,-73.87069702,Bronxwood,189000.0
+609 Kappock Street #5A,932.0,1.0,1.0,Co-op,40.87979889,-73.91629791,Spuyten Duyvil,250000.0
+640 West 237th Street #5C,1906.0,3.5,3.0,Condo,40.88750076,-73.91259766,Riverdale,1350000.0
+3199 Oxford Avenue #1,2600.0,3.0,5.0,Multi-family,40.88389969,-73.90989685,Spuyten Duyvil,825000.0
+253 West 254th Street,1668.0,2.5,4.0,House,40.90159988,-73.89990234,Riverdale,775000.0
+4673 Delafield Avenue,4200.0,4.0,5.0,House,40.89609909,-73.90740204,Fieldston,1685000.0
+645 West 239th Street #1C,1350.0,2.0,2.0,Co-op,40.88999939,-73.91239929,Riverdale,399900.0
+485 West 246th Street,5200.0,3.5,4.0,House,40.89410019,-73.90769958,Fieldston,1995000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+5610 Netherland Avenue #1E,950.0,1.0,1.0,Co-op,40.90520096,-73.90609741,Riverdale,149900.0
+3585 Greystone Avenue E4E/E3E,1087.0,2.5,2.0,Condo,40.88539886,-73.90650177,Riverdale,649000.0
+512 Kappock Street #1H,700.0,1.0,1.0,Co-op,40.87739944,-73.91829681,Spuyten Duyvil,164900.0
+512 Kappock Street #1K,700.0,1.0,1.0,Co-op,40.87739944,-73.91829681,Spuyten Duyvil,179900.0
+4995 Henry Hudson Parkway,1320.0,2.0,2.0,House,40.89789963,-73.90840149,Riverdale,532500.0
+640 West 237th Street #9A,1427.0,2.0,2.0,Condo,40.88750076,-73.91259766,Riverdale,1105000.0
+555 Kappock Street #2U,800.0,1.0,1.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,180000.0
+3333 Henry Hudson Pkwy #23T,1069.0,1.0,2.0,Co-op,40.88499832,-73.9151001,Riverdale,329000.0
+5500 Fieldston Rd #9BB,750.0,1.0,1.0,Co-op,40.90309906,-73.90039825,Riverdale,145000.0
+555 Kappock Street #21B,800.0,1.0,1.0,Co-op,40.87810135,-73.91690063,Spuyten Duyvil,190000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+1618 Bayview Avenue,1724.0,1.0,2.0,House,40.84659958,-73.81710052,Country Club,225000.0
+2575 Palisade Avenue #3K,700.0,1.0,1.0,Co-op,40.88199997,-73.92199707,Spuyten Duyvil,250000.0
+5500 Fieldston Rd #6FF,700.0,1.0,1.0,Co-op,40.90309906,-73.90039825,Riverdale,149000.0
+3933-35 Hill Avenue,1792.0,4.0,6.0,Multi-family,40.88970184,-73.83889771,Edenwald,500000.0
+5445 Palisade Avenue,4060.0,3.5,6.0,House,40.9056015,-73.91259766,Riverdale,2550000.0
+305 West 246th Street,3769.0,4.5,8.0,House,40.89390182,-73.90129852,Fieldston,2750000.0
+3333 Henry Hudson Parkway #6P,850.0,1.0,1.0,Co-op,40.88499832,-73.9151001,Riverdale,245000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+5410 Netherland Avenue #A41,900.0,1.0,1.0,Co-op,40.90250015,-73.90630341,Riverdale,155000.0
+4530 Delafield Avenue,5970.0,4.5,6.0,House,40.89250183,-73.90660095,Fieldston,3250000.0
+4720 Grosvenor Avenue,5158.0,4.5,5.0,House,40.89670181,-73.9048996,Fieldston,3200000.0
+4440 Waldo Avenue,2808.0,3.0,5.0,House,40.89210129,-73.90149689,Fieldston,1895000.0
+4455 Douglas Avenue #8C,919.0,1.0,1.0,Condo,40.88940048,-73.91750336,Riverdale,460000.0

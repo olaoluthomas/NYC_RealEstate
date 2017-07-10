@@ -1,0 +1,379 @@
+address,area,baths,beds,building type,latitude,longitude,neighborhood,price
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+25 Adrianne Lane,1595.0,N/A,3.0,Townhouse,40.623981,-74.157802,Mariners Harbor,439999.0
+15 Neptune Street,735.0,1.0,2.0,House,40.564998,-74.099525,New Dorp Beach,329900.0
+86 Rolling Hill Green,18803.0,1.5,3.0,House,40.55110168,-74.19180298,Huguenot,437999.0
+35 Eddy Street,N/A,2.5,4.0,House,40.62630081,-74.0904007,Grymes Hill,843000.0
+25 Arielle Lane #108,N/A,1.5,2.0,Condo,40.57799911,-74.16049957,New Springville,429000.0
+16 Bement Avenue,1040.0,N/A,3.0,House,40.64228,-74.11404,West Brighton,470000.0
+136 Whitman Avenue,N/A,3.0,4.0,House,40.54389954,-74.14279938,Great Kills,799999.0
+60 Crowell Avenue,5400.0,1.0,2.0,Multi-family,40.6156,-74.12535,Westerleigh,609000.0
+16 Mathews Avenue,1740.0,N/A,3.0,House,40.625989,-74.105485,West Brighton,889000.0
+62 Lincoln Street,1804.0,2.0,4.0,House,40.60359955,-74.11840057,Todt Hill,259900.0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+66 Clawson Street,1281.0,2.0,3.0,House,40.57730103,-74.10559845,Grant City,850000.0
+15 Degroot Place,N/A,2.0,3.0,House,40.63570023,-74.12390137,West Brighton,425000.0
+99 Sumner Place,1360.0,1.5,3.0,Townhouse,40.638921,-74.092416,New Brighton,415000.0
+20 College Avenue,1404.0,2.0,4.0,House,40.62189865,-74.12139893,Port Richmond,519000.0
+151 Roma Avenue,2100.0,2.0,4.0,House,40.56234,-74.10339,New Dorp Beach,749000.0
+431 Patterson Avenue,N/A,1.5,4.0,House,40.58060074,-74.08339691,Dongan Hills,599000.0
+41 Seneca Street,N/A,2.0,4.0,House,40.63209915,-74.1155014,West Brighton,419000.0
+100 Clinton Place,4256.0,3.0,9.0,Multi-family,40.63249969,-74.13890076,Port Richmond,525000.0
+966 Patterson Avenue,1505.0,N/A,4.0,House,40.56904,-74.09282,Midland Beach,449988.0
+73 Labau Avenue,1144.0,N/A,2.0,House,40.61339951,-74.10579681,Sunnyside (Staten Island),499000.0
+1090 Arden Avenue,2352.0,N/A,4.0,House,40.5429,-74.173805,Annadale,699000.0
+40 Northfield Court,1390.0,N/A,3.0,House,40.640274,-74.168769,Arlington,329000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+14 Isernia Avenue,1170.0,N/A,3.0,House,40.562144,-74.11117,New Dorp Beach,449900.0
+52 Parish Avenue,1728.0,N/A,3.0,House,40.593271,-74.190787,Travis,419900.0
+135 Pouch Terrace,2592.0,N/A,5.0,Multi-family,40.60322,-74.07595,Arrochar,825000.0
+29 Lake Avenue,1188.0,1.0,2.0,House,40.636224,-74.150454,Mariners Harbor,349000.0
+3874 Hylan Boulevard,2960.0,2.0,5.0,Multi-family,40.54471,-74.14312,Great Kills,649999.0
+294 Weed Avenue,1873.0,N/A,4.0,House,40.560663,-74.109655,New Dorp Beach,675000.0
+1111 Richmond Road,N/A,N/A,3.0,House,40.59964,-74.09217,Emerson Hill,599999.0
+441 Barlow Avenue,1332.0,N/A,3.0,House,40.558041,-74.162766,Eltingville,495000.0
+31 Coddington Avenue,1288.0,1.5,3.0,House,40.57182,-74.11345,New Dorp,634900.0
+155 Burgher Avenue,912.0,2.0,2.0,House,40.593096,-74.092367,Dongan Hills,499000.0
+369 Melba Street,1216.0,N/A,3.0,House,40.60327,-74.12402,Castleton Corners,479900.0
+66 Fillmore Avenue,1260.0,N/A,3.0,House,40.602567,-74.134467,Meiers Corners,525000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+99 Cordelia Avenue,4800.0,N/A,5.0,House,40.518871,-74.211545,Pleasant Plains,1399000.0
+1115 Targee Street,1259.0,1.5,3.0,House,40.600788,-74.091228,Emerson Hill,569000.0
+105 Dogwood Dr,2548.0,N/A,3.0,House,40.549911,-74.198921,Huguenot,549900.0
+83 Hewitt Avenue,1472.0,N/A,3.0,House,40.60789871,-74.09960175,Emerson Hill,550000.0
+146 Clinton Place,1620.0,2.5,4.0,House,40.633106,-74.140151,Port Richmond,459900.0
+54 South Avenue,1234.0,1.0,3.0,House,40.638778,-74.166458,Arlington,425000.0
+7 Wavecrest Street,1400.0,N/A,3.0,House,40.563326,-74.09905,New Dorp Beach,624000.0
+22 Milbank Rd,1440.0,2.0,3.0,House,40.561069,-74.102745,New Dorp Beach,624000.0
+3871 Amboy Road,986.0,2.0,2.0,House,40.552,-74.14744,Great Kills,449000.0
+90 East Loop Road,3687.0,N/A,6.0,House,40.589961,-74.104098,Dongan Hills,1800000.0
+30 Croft Court #a,2064.0,N/A,2.0,House,40.562098,-74.140296,Richmondtown,339000.0
+344 Katan Avenue,1662.0,N/A,3.0,House,40.551614,-74.157619,Great Kills,749000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+4056 Richmond Avenue,966.0,N/A,3.0,House,40.539528,-74.161064,Eltingville,539900.0
+14 Seacrest Avenue,3028.0,N/A,4.0,House,40.534557,-74.152779,Eltingville,699000.0
+6 Mc Divitt Avenue #a,1296.0,N/A,3.0,House,42.937084,-75.610703,New Springville,399900.0
+104 Meade Loop,3760.0,N/A,5.0,House,40.522243,-74.229149,Richmond Valley,949900.0
+329 Parkinson Avenue,880.0,1.0,2.0,House,40.593616,-74.080582,South Beach,329900.0
+88 Portage Avenue,1764.0,N/A,2.0,House,40.600346,-74.12381,Castleton Corners,449900.0
+40 Clifton Avenue,840.0,2.0,2.0,House,40.615379,-74.065186,Rosebank,525000.0
+33 Lamport Boulevard,1200.0,N/A,3.0,House,40.597675,-74.078789,South Beach,499000.0
+135 Beverly Avenue,968.0,1.5,3.0,House,40.61819839,-74.10369873,Sunnyside (Staten Island),525000.0
+62 East Cheshire Place,1066.0,1.0,3.0,House,40.62039948,-74.10169983,Sunnyside (Staten Island),599900.0
+27 Strawberry Lane,1460.0,2.0,3.0,House,40.529289,-74.158875,Eltingville,529900.0
+74 Christopher Street,2400.0,2.0,5.0,Multi-family,40.636337,-74.164299,Mariners Harbor,449000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+36 Amador Street,1910.0,N/A,3.0,House,40.623173,-74.163712,Mariners Harbor,399900.0
+105 Smith Place,1540.0,2.0,3.0,House,40.626152,-74.141403,Port Richmond,429900.0
+841 Van Duzer Street,N/A,1.0,3.0,House,40.619987,-74.079651,Clifton,299000.0
+11 Roe Street,1350.0,N/A,3.0,House,40.633839,-74.121704,West Brighton,299900.0
+39 Poplar Avenue,1200.0,3.0,3.0,House,40.55322,-74.21402,Rossville,649900.0
+66 Harvard Avenue,4800.0,N/A,5.0,House,40.64182,-74.09022,New Brighton,1295000.0
+187 Benton Avenue,1108.0,N/A,3.0,House,40.59125,-74.08384,Dongan Hills,539000.0
+54 Collfield Avenue,1000.0,1.0,4.0,House,40.62076,-74.14298,Graniteville,450000.0
+149 Providence Street,2236.0,N/A,3.0,House,40.59693,-74.08868,Dongan Hills,735000.0
+73 Harbor Rd,2585.0,N/A,3.0,Multi-family,40.63510132,-74.15989685,Mariners Harbor,515000.0
+6453 Amboy Road,3665.0,1.5,4.0,Multi-family,40.52089,-74.21812,Pleasant Plains,850000.0
+257 Sand Lane,1200.0,N/A,3.0,House,40.593457,-74.068346,South Beach,499999.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+112 Narrows Road South,1148.0,N/A,3.0,House,40.604923,-74.07395,Arrochar,559000.0
+356 Ramona Avenue,3186.0,N/A,4.0,House,40.538441,-74.197044,Woodrow,1325000.0
+329 Jefferson Boulevard,2400.0,N/A,4.0,House,40.5463,-74.184774,Annadale,859000.0
+24 James Place,1504.0,2.0,6.0,House,40.6096,-74.071289,Shore Acres,399900.0
+157 Augusta Avenue,2156.0,N/A,3.0,Multi-family,40.55147,-74.17365,Eltingville,699900.0
+335 Glen Avenue,1000.0,N/A,3.0,House,40.581023,-74.163495,Tompkinsville,329000.0
+70 W. Cedarview Avenue,1768.0,N/A,4.0,House,40.566911,-74.136917,Richmondtown,779000.0
+117 Beverly Avenue,1400.0,3.0,3.0,House,40.61859894,-74.10350037,Sunnyside (Staten Island),729000.0
+418 Nome Avenue,2150.0,N/A,4.0,House,40.589222,-74.163937,New Springville,749888.0
+112 Elmbank Street,1768.0,2.0,4.0,House,40.52992,-74.16304,Annadale,799999.0
+133 Dover Green,1740.0,N/A,4.0,House,40.55591,-74.19749,Huguenot,359900.0
+194 Robinson Avenue,1200.0,1.5,3.0,House,40.53871,-74.15311,Eltingville,489900.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+79 Boundary Avenue,1688.0,N/A,3.0,House,40.58055,-74.09805,Midland Beach,548000.0
+120 Narrows Road South,1148.0,N/A,3.0,House,40.60488,-74.07419,Arrochar,559000.0
+27 Topside Lane,3420.0,N/A,2.0,House,40.52970123,-74.24009705,Charleston,695000.0
+278 Livermore Avenue,1250.0,1.0,2.0,House,40.617249,-74.138992,Westerleigh,445000.0
+119 Mariners Lane,1596.0,N/A,2.0,House,40.634975,-74.152466,Mariners Harbor,289000.0
+31 Tottenville Place,3100.0,N/A,4.0,House,40.507156,-74.253998,Tottenville,889000.0
+36 Belmont Place,2592.0,N/A,3.0,House,40.643889,-74.080963,Saint George,999998.0
+1204 Willowbrook Road,960.0,N/A,2.0,House,40.603472,-74.132311,Meiers Corners,319000.0
+301 Westervelt Avenue,2750.0,3.0,6.0,House,40.641035,-74.082412,Saint George,779000.0
+66 Sweetgum Lane,2100.0,N/A,3.0,House,40.592015,-74.152143,Bulls Head,625000.0
+32-34 Summer Street,2100.0,N/A,5.0,Multi-family,40.607093,-74.063975,Shore Acres,759000.0
+36 Jaffe Street,2600.0,N/A,4.0,Multi-family,40.61965,-74.146179,Graniteville,839000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+429 Patterson Avenue,1900.0,N/A,3.0,House,40.580632,-74.08333,Midland Beach,639900.0
+14 Prince Street,1260.0,1.5,3.0,House,40.617546,-74.082315,Clifton,285000.0
+12 Penn Street,1850.0,N/A,3.0,House,40.610257,-74.123237,Castleton Corners,609000.0
+263 Lockman Avenue,1568.0,N/A,3.0,House,40.63035,-74.161457,Mariners Harbor,319000.0
+90 Ontario Avenue,1528.0,1.0,2.0,House,40.61330032,-74.10410309,Sunnyside (Staten Island),499999.0
+77 Bowling Green Place,1476.0,N/A,3.0,House,40.59577,-74.167076,Bulls Head,518000.0
+118 Lorraine Loop,1570.0,1.5,3.0,Townhouse,40.545474,-74.220055,Rossville,409900.0
+4165 Richmond Avenue,2340.0,N/A,3.0,Multi-family,40.53729,-74.158211,Eltingville,975000.0
+471 Ridgewood Avenue,1148.0,1.5,3.0,House,40.559483,-74.165468,Eltingville,349900.0
+56 Van Pelt Avenue,2396.0,1.5,4.0,Multi-family,40.635215,-74.1553,Mariners Harbor,500000.0
+445 Beach Road,1152.0,N/A,3.0,House,40.543955,-74.158726,Eltingville,425000.0
+130 Prospect Street,2256.0,N/A,6.0,House,40.629068,-74.078692,Stapleton,539000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+292 Sprague Avenue,1440.0,N/A,3.0,Townhouse,40.503741,-74.2378,Tottenville,379000.0
+195 Graves Street,1158.0,N/A,2.0,Townhouse,40.600769,-74.128961,Staten Island,409000.0
+196 Slater Boulevard,1860.0,1.5,3.0,House,40.580352,-74.089624,Midland Beach,535000.0
+70 Signs Road,2322.0,N/A,2.0,House,40.601689,-74.165739,Bulls Head,789000.0
+285 Poultney Street,960.0,1.5,3.0,House,40.573619,-74.101331,Midland Beach,534500.0
+87 Tysen Street,2250.0,1.5,6.0,House,40.643442,-74.099327,New Brighton,625000.0
+231 Deems Avenue,1541.0,2.0,4.0,House,40.617485,-74.131968,Westerleigh,559900.0
+337 Stanley Avenue,1300.0,N/A,3.0,House,40.634298,-74.095884,Tompkinsville,449000.0
+208 Walker Street,1564.0,N/A,2.0,House,40.630713,-74.146383,Elm Park,349000.0
+19 Nicholas Avenue,N/A,N/A,3.0,House,40.6391983,-74.13899994,Staten Island,280000.0
+17 Orchard Avenue,N/A,2.0,4.0,House,40.51449966,-74.24459839,Staten Island,449000.0
+490 Main Street #C12,N/A,1.0,1.0,Co-op,40.50270081,-74.24500275,Staten Island,129000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+204 Lamport Boulevard,1026.0,1.0,3.0,House,40.59339905,-74.07679749,South Beach,497000.0
+2 Elmwood Park Drive #316,N/A,1.0,1.0,Condo,40.58169937,-74.16179657,New Springville,289000.0
+108 Camden Avenue,N/A,5.0,5.0,House,40.50870132,-74.22799683,Tottenville,1299000.0
+667 Hunter Avenue,N/A,1.0,2.0,House,40.57369995,-74.08809662,Midland Beach,162500.0
+25 Sheridan Ct,2120.0,3.0,3.0,House,40.5605011,-74.1339035,Bay Terrace,819000.0
+97 Churchill Avenue,N/A,N/A,3.0,House,40.52930069,-74.22019958,Charleston,624999.0
+11 Temple Ct,1348.0,1.5,2.0,Townhouse,40.59289932,-74.18560028,Travis,399000.0
+338 Clifton Avenue,1640.0,2.0,4.0,Multi-family,40.61119843,-74.07389832,Rosebank,448000.0
+429 Raritan Avenue,780.0,1.0,3.0,House,40.58840179,-74.08660126,Dongan Hills,499000.0
+9 Temple Ct,1348.0,1.5,2.0,House,40.5929985,-74.18569946,Travis,399999.0
+569 Bard Avenue,1416.0,1.5,3.0,House,40.62950134,-74.10549927,Silver Lake,571000.0
+290 Lake Avenue,1829.0,2.5,4.0,Multi-family,40.62919998,-74.15190125,Mariners Harbor,638000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+145 Lincoln Avenue #4A,836.0,1.0,1.0,Condo,40.57910156,-74.10769653,Grant City,239000.0
+330 Van Duzer Street,2012.0,2.0,5.0,House,40.63019943,-74.07900238,Tompkinsville,799000.0
+120 Milden Avenue,7200.0,4.5,6.0,House,40.60789871,-74.09750366,Emerson Hill,2199000.0
+63 Forest Green,N/A,2.0,3.0,House,40.55490112,-74.19529724,Huguenot,349900.0
+550 Mosel Avenue,N/A,3.0,6.0,House,40.60440063,-74.08529663,Grasmere,999000.0
+1000 Arden Avenue,1400.0,2.5,3.0,House,40.5442009,-74.17639923,Annadale,535000.0
+1225 Rockland Avenue,2322.0,2.5,5.0,Multi-family,40.59460068,-74.15820313,New Springville,799999.0
+115 Overlook Ter,1980.0,1.0,3.0,House,40.60340118,-74.07820129,Grasmere,1290000.0
+40 Northfield Court,N/A,1.5,3.0,Townhouse,40.64030075,-74.16870117,Arlington,329000.0
+385 Ramona Avenue,N/A,3.0,2.0,House,40.53850174,-74.19809723,Woodrow,685000.0
+25 the Boulevard,2212.0,N/A,4.0,House,40.61869812,-74.13189697,Westerleigh,845000.0
+1090 Arden Avenue,N/A,3.5,4.0,House,40.54290009,-74.17389679,Annadale,699000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+22 Pearsall Street,2104.0,2.5,3.0,House,40.59059906,-74.07460022,Arrochar,649999.0
+189 Aspen Knolls Way #189,1354.0,1.5,2.0,Townhouse,40.56290054,-74.18419647,Arden Heights,354888.0
+57 Adams Avenue,1920.0,2.0,4.0,Multi-family,40.58390045,-74.10469818,Dongan Hills,695000.0
+10 Village Lane #2B,1356.0,1.0,3.0,Condo,40.54330063,-74.16870117,Eltingville,425000.0
+886 Delafield Avenue,2340.0,3.0,6.0,Multi-family,40.62770081,-74.12819672,West Brighton,699000.0
+272 Richmond Terr #1-2,3521.0,2.5,5.0,House,40.64730072,-74.08249664,Saint George,999999.0
+175 Auburn Avenue,2808.0,5.0,6.0,Multi-family,40.61249924,-74.14759827,Graniteville,1149999.0
+80 Bay Street Landing #1K,2250.0,2.5,3.0,Condo,40.6393013,-74.07409668,Saint George,718000.0
+23 Duer Lane,3240.0,N/A,8.0,Multi-family,40.63190079,-74.08979797,Silver Lake,799000.0
+122 Sommer Avenue,N/A,1.5,3.0,House,40.60760117,-74.16680145,Bulls Head,538000.0
+12 Sandy Lane,1100.0,2.5,3.0,Townhouse,40.50360107,-74.23770142,Tottenville,440000.0
+1009 Arden Avenue,N/A,2.0,3.0,House,40.54449844,-74.1760025,Eltingville,549900.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+1115 Targee Street,N/A,2.0,3.0,House,40.60070038,-74.09120178,Emerson Hill,529900.0
+3 Merle Place,N/A,4.0,6.0,House,40.60639954,-74.0687027,Shore Acres,1200000.0
+5295 Amboy Road,N/A,5.0,4.0,House,40.11240005,-77.51959991,Staten Island,1299000.0
+96 Father Capodanno Boulevard #1,1800.0,N/A,4.0,House,40.59379959,-74.06259918,South Beach,669000.0
+14 Ely Street 10301,N/A,2.0,7.0,House,40.6371994,-74.08799744,Tompkinsville,438888.0
+19 Dorothy Street,2200.0,2.5,4.0,House,40.59889984,-74.1391983,Meiers Corners,775000.0
+29 Lake Avenue,1188.0,1.0,2.0,House,40.63610077,-74.15029907,Mariners Harbor,349000.0
+180 Hickory Avenue,N/A,2.0,3.0,House,40.5929985,-74.07230377,South Beach,499000.0
+15 Cottontail Ct,5400.0,4.5,4.0,Multi-family,40.53549957,-74.17970276,Huguenot,1699000.0
+506 Port Richmond Avenue,N/A,1.5,3.0,House,40.63050079,-74.13999939,Port Richmond,349900.0
+550 Sheldon Avenue,2440.0,2.5,5.0,Multi-family,40.54180145,-74.19319916,Huguenot,978000.0
+163 Livermore Avenue,1254.0,1.0,3.0,House,40.62009811,-74.13780212,Westerleigh,599000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+33 Jerome Avenue,1185.0,2.0,3.0,House,40.59759903,-74.07659912,Dongan Hills,568888.0
+160 Devon Loop #2,914.0,2.0,2.0,Condo,40.58069992,-74.16020203,New Springville,300000.0
+48 Windham Loop #1A,670.0,1.0,1.0,Condo,40.57920074,-74.16239929,New Springville,260000.0
+16 Travis Avenue,1830.0,2.5,3.0,House,40.58509827,-74.14810181,New Springville,549000.0
+631 Ocean Terrace,3140.0,3.0,3.0,House,40.60620117,-74.10189819,Todt Hill,999900.0
+28 Sprague Avenue,3062.0,3.5,4.0,House,40.51096344,-74.24012756,Tottenville,999900.0
+32 Sprague Avenue,3062.0,3.5,4.0,House,40.11240005,-77.51959991,Staten Island,999900.0
+672 Drumgoole Rd W,1690.0,1.5,4.0,House,40.55410004,-74.17739868,Annadale,614999.0
+322 Kingsley Avenue,1458.0,N/A,3.0,House,40.6216011,-74.13150024,Port Richmond,599000.0
+391 Saint George Rd,1800.0,N/A,4.0,House,40.57500076,-74.14019775,Lighthouse Hill,838000.0
+29 Dixon Avenue,1600.0,2.0,4.0,House,40.62829971,-74.14880371,Staten Island,429000.0
+26 Ashley Lane,1870.0,2.5,2.0,Townhouse,40.54700089,-74.2181015,Rossville,424900.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+20 Westport Lane,N/A,1.0,2.0,Townhouse,40.58390045,-74.15930176,New Springville,455000.0
+27 Kathy Place #1A,1000.0,1.0,1.0,Condo,40.57870102,-74.16300201,New Springville,298888.0
+412 Medina Street,N/A,1.0,3.0,House,40.56110001,-74.11779785,Oakwood,459000.0
+175 Overlook Avenue,1264.0,1.5,3.0,House,40.59500122,-74.10070038,Dongan Hills,775000.0
+34 Dominick Ln,5000.0,3.5,4.0,Multi-family,40.52429962,-74.17160034,Annadale,2399000.0
+56 Raritan Avenue #3,1344.0,2.5,3.0,Townhouse,40.59329987,-74.0970993,Dongan Hills,525000.0
+132 Lander Avenue #3,1260.0,2.5,3.0,Townhouse,40.61360168,-74.16349792,Graniteville,548000.0
+21 Nixon Avenue,3700.0,4.0,5.0,House,40.63259888,-74.0821991,Tompkinsville,1195000.0
+21D Signs Road #21D,952.0,1.5,2.0,Condo,40.60269928,-74.16359711,Bulls Head,379000.0
+43 John Street,944.0,2.5,2.0,House,40.637892,-74.142338,Elm Park,305000.0
+146 Ardsley,3200.0,3.0,5.0,House,40.57139969,-74.13500214,Richmondtown,1480000.0
+132 Lander Avenue,1680.0,2.5,3.0,Townhouse,40.61360168,-74.16349792,Graniteville,548000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+30 Walker Drive,935.0,1.5,2.0,House,40.63100052,-74.14980316,Mariners Harbor,275000.0
+242-244 Hooker Place,N/A,4.0,10.0,Multi-family,40.63190079,-74.1473999,Elm Park,824999.0
+105 Woodcutters Lane,N/A,3.0,3.0,House,40.55770111,-74.14070129,Bay Terrace,549900.0
+72 Melrose Avenue,N/A,2.5,3.0,House,40.61899948,-74.10350037,Sunnyside (Staten Island),489900.0
+415 Winchester Avenue,1040.0,1.5,3.0,House,40.54180145,-74.16010284,Eltingville,529999.0
+401 Broadway,3300.0,3.0,6.0,Multi-family,40.63140106,-74.11650085,West Brighton,635000.0
+174 Holland Avenue,1800.0,2.0,3.0,House,40.63610077,-74.17120361,Port Ivory,400000.0
+700 New Dorp Lane,N/A,2.0,6.0,Multi-family,40.56579971,-74.10070038,New Dorp Beach,699000.0
+892 Richmond Avenue,1400.0,2.5,3.0,House,40.6257019,-74.14839935,Elm Park,420000.0
+337 Hamden Avenue,N/A,2.5,3.0,House,40.5780983,-74.09880066,Midland Beach,599999.0
+61 Park Hill Court,N/A,1.0,2.0,House,40.61840057,-74.07620239,Clifton,449400.0
+202 Adams Avenue,1200.0,2.0,3.0,House,40.58089828,-74.1013031,Grant City,499000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+523 Van Duzer Street #1,N/A,,1.0,Building,40.62680054,-74.08339691,Stapleton,299000.0
+7 Keating Place,1600.0,2.5,3.0,Townhouse,40.5929985,-74.15529633,Staten Island,575000.0
+88 Chandler Avenue,960.0,1.0,2.0,Townhouse,40.61410141,-74.12560272,Westerleigh,389900.0
+175 Hett Avenue,1800.0,1.5,3.0,House,40.56209946,-74.10469818,New Dorp Beach,549999.0
+23 Jefferson Avenue,1100.0,1.0,3.0,House,40.58570099,-74.10430145,Dongan Hills,510000.0
+800 W Fingerboard Rd,N/A,2.0,3.0,House,40.60160065,-74.08119965,Grasmere,800000.0
+285 South Avenue,1960.0,2.0,6.0,Multi-family,40.63249969,-74.16600037,Mariners Harbor,499900.0
+762 Armstrong Avenue #762,1248.0,1.0,3.0,House,40.5530014,-74.16040039,Eltingville,469999.0
+255 Targee Street 10304,N/A,2.0,4.0,House,40.62070084,-74.08399963,Clifton,425000.0
+289 Park Street,2664.0,N/A,4.0,House,40.56969833,-74.13529968,Richmondtown,778000.0
+31 Marvin Road,2466.0,4.5,4.0,Multi-family,40.53630066,-74.21700287,Rossville,770000.0
+675 Yetman Avenue 10307,N/A,1.0,3.0,House,40.49940109,-74.23960114,Tottenville,429000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+671 Yetman Avenue,N/A,3.0,6.0,Multi-family,40.49950027,-74.23970032,Tottenville,739000.0
+112 10th Street,1562.0,2.0,3.0,House,40.57009888,-74.11630249,New Dorp,648888.0
+1068 Sinclair Avenue,2400.0,3.5,4.0,House,40.5379982,-74.21160126,Rossville,929900.0
+55 Jefferson Avenue,2408.0,1.5,3.0,House,40.58499908,-74.10350037,Dongan Hills,588000.0
+47 Lynn Court #1,N/A,,1.0,Townhouse,40.62110138,-74.15049744,Graniteville,265000.0
+289 Deal Ct,1530.0,1.5,3.0,House,40.61109924,-74.06759644,Shore Acres,738888.0
+132 Lander Avenue,1260.0,1.5,3.0,House,40.61360168,-74.16349792,Bulls Head,548000.0
+70 Woodvale Loop,7000.0,4.5,N/A,Multi-family,40.51620102,-74.20549774,Princes Bay,1499000.0
+20 Seth Loop,2055.0,3.5,3.0,Townhouse,40.61009979,-74.0664978,Shore Acres,598000.0
+155 Burgher Avenue,912.0,2.0,2.0,House,40.5931015,-74.0923996,Dongan Hills,499000.0
+108 Coddington Avenue,1248.0,2.0,3.0,House,40.57020187,-74.11160278,New Dorp,448000.0
+159 Taylor Street,N/A,2.0,3.0,House,40.63479996,-74.12280273,West Brighton,750000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+137 Pierpont Place #1,N/A,1.5,1.0,Condo,40.57830048,-74.15779877,New Springville,278999.0
+1988 Arthur Kill Road,1100.0,1.5,2.0,House,40.55569839,-74.20140076,Huguenot,352000.0
+66 Pilot Lane,2490.0,N/A,2.0,House,40.53099823,-74.24089813,Charleston,699900.0
+553 Rensselaer Avenue,2988.0,N/A,6.0,Multi-family,40.54159927,-74.19290161,Huguenot,1298888.0
+15 Geldner Avenue,1794.0,2.0,3.0,House,40.57580185,-74.12220001,Egbertville,689900.0
+818 Bloomingdale Rd,N/A,,N/A,N/A,40.54550171,-74.21970367,N/A,399000.0
+93 Sanford Place,1080.0,1.0,N/A,House,40.61510086,-74.11779785,Castleton Corners,549000.0
+152 McClean Avenue,3000.0,4.0,7.0,Multi-family,40.59769821,-74.06680298,South Beach,1299000.0
+48 Quinn Street,1796.0,1.5,4.0,Townhouse,40.62340164,-74.07820129,Clifton,550000.0
+46 Montell Street,1280.0,2.0,4.0,House,40.62900162,-74.13890076,Port Richmond,513500.0
+109 Rome Avenue,3000.0,4.0,6.0,House,40.60210037,-74.09320068,Emerson Hill,749900.0
+163 Baden Place,1120.0,1.5,2.0,House,40.57279968,-74.09120178,Midland Beach,389000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+26 Bayview Avenue,4124.0,2.5,4.0,Multi-family,40.52479935,-74.2059021,Princes Bay,935000.0
+57 Newberry Avenue,N/A,2.0,4.0,House,40.59519958,-74.09369659,Dongan Hills,849900.0
+89 Dover Green,1544.0,2.0,3.0,House,40.55619812,-74.19650269,Huguenot,429000.0
+67 Bradley Avenue,1800.0,3.5,3.0,House,40.61050034,-74.13200378,Castleton Corners,599999.0
+65 Bradley Avenue,1800.0,3.5,3.0,House,40.61059952,-74.13200378,Castleton Corners,599999.0
+582 Yetman Avenue,3200.0,4.0,4.0,Multi-family,40.50149918,-74.24079895,Tottenville,848000.0
+282 Gordon Street,N/A,1.0,2.0,Townhouse,40.62039948,-74.08370209,Clifton,225000.0
+137 Cranford Avenue,1292.0,1.0,3.0,House,40.57139969,-74.12840271,Richmondtown,479900.0
+129 Sycamore Street,1471.0,2.0,4.0,House,40.54330063,-74.15540314,Great Kills,669900.0
+798 Armstrong,N/A,N/A,3.0,House,40.55400085,-74.16079712,Eltingville,529999.0
+33 Honey Lane,2600.0,2.5,5.0,House,40.50960159,-74.23690033,Tottenville,889900.0
+11 McCormick Place,1260.0,2.0,2.0,Townhouse,40.59669876,-74.08329773,Grasmere,399000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+24 Northfield Court,1400.0,1.5,3.0,Townhouse,40.6405983,-74.16880035,Arlington,274999.0
+155 Bay Street #5H,962.0,2.0,N/A,Condo,40.63809967,-74.07550049,Saint George,529998.0
+34 Rose Lane,1920.0,3.0,5.0,Multi-family,40.53290176,-74.18720245,Huguenot,780000.0
+21 Carlyle Green,N/A,1.0,2.0,House,40.55670166,-74.19860077,Huguenot,349900.0
+577 Wainwright Avenue,2000.0,3.0,6.0,Multi-family,40.54629898,-74.16850281,Eltingville,899000.0
+286 Brighton Street,N/A,1.0,2.0,House,40.50310135,-74.24330139,Tottenville,425000.0
+267 Gordon Street,1200.0,1.5,4.0,House,40.62070084,-74.08319855,Clifton,325000.0
+554 Falcon Avenue,2140.0,2.5,3.0,House,40.55929947,-74.11740112,Oakwood,768000.0
+33 Alex Cir,1554.0,1.0,3.0,House,40.59280014,-74.06510162,Staten Island,528800.0
+74 Van Duzer Street,2400.0,2.0,6.0,Multi-family,40.63610077,-74.07740021,Tompkinsville,699999.0
+197 Giffords Lane,N/A,1.5,5.0,House,40.55630112,-74.15229797,Great Kills,539880.0
+2 Elmwood Park Dr 222 #222,649.0,1.0,1.0,Condo,40.58169937,-74.16179657,New Springville,284999.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+74 Romer Road,N/A,4.0,5.0,House,40.59189987,-74.104599,Dongan Hills,1099000.0
+12 Sterling Avenue,1550.0,1.0,3.0,House,40.56999969,-74.11599731,New Dorp,619000.0
+59 Lisa Lane,2392.0,3.5,4.0,House,40.54930115,-74.19650269,Huguenot,649000.0
+21 Harris Lane,N/A,3.0,3.0,House,40.54249954,-74.21910095,Rossville,549900.0
+414 Maryland Avenue #3B,900.0,1.0,1.0,Condo,40.60810089,-74.07409668,Shore Acres,225000.0
+281 Signs Rd # D #D,1229.0,1.5,3.0,Townhouse,40.60290146,-74.17060089,Bulls Head,424900.0
+18 Elk Court,N/A,2.0,2.0,House,40.56330109,-74.14050293,Richmondtown,385000.0
+1090 Richmond Rd,3300.0,,2.0,Building,40.60029984,-74.09190369,Emerson Hill,1499999.0
+103 Regan Avenue,2016.0,3.0,6.0,Multi-family,40.63199997,-74.10900116,West Brighton,650000.0
+155 Highland Avenue,3500.0,3.0,5.0,Townhouse,40.616343,-74.097032,Grymes Hill,1659000.0
+196 Stobe Avenue,1680.0,1.5,3.0,House,40.58259964,-74.09929657,Grant City,535000.0
+148 Olympia Boulevard,1906.0,2.5,4.0,House,40.59180069,-74.07319641,South Beach,509000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+44 Annfield Ct,3112.0,3.5,4.0,House,40.60039902,-74.10700226,Todt Hill,1449000.0
+4 Edwin Street,2230.0,2.5,4.0,House,40.53739929,-74.16750336,Annadale,899999.0
+309 Guyon Avenue,3320.0,3.0,5.0,House,40.56029892,-74.11940002,Oakwood,1398000.0
+20 Gregory Lane #150,1146.0,2.0,2.0,Condo,40.57799911,-74.16049957,New Springville,299000.0
+5190 Amboy Road,2856.0,2.5,4.0,Multi-family,40.53480148,-74.18319702,Huguenot,759900.0
+20 Abingdon Avenue #20,650.0,1.0,1.0,Condo,40.54980087,-74.15599823,Great Kills,257000.0
+41 Country Drive West #41,1120.0,N/A,2.0,Condo,40.5882988,-74.16369629,New Springville,374800.0
+50 Fort Place #B5B,1100.0,1.0,2.0,Co-op,40.64149857,-74.08000183,Saint George,335000.0
+191 Mallory Avenue,1400.0,2.0,3.0,House,40.59389877,-74.07749939,South Beach,648500.0
+89 Mersereau Avenue,N/A,2.0,4.0,Multi-family,40.63639832,-74.16329956,Mariners Harbor,399000.0
+73 Arlington Place,1300.0,N/A,4.0,Multi-family,40.63600159,-74.165802,Mariners Harbor,369000.0
+75 Arlington Place,N/A,N/A,4.0,Multi-family,40.63600159,-74.16590118,Mariners Harbor,369000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+25 Ridgefield Avenue,N/A,2.0,2.0,House,40.61320114,-74.08820343,Grymes Hill,499000.0
+246 Bertram Avenue,3960.0,4.0,5.0,Multi-family,40.52899933,-74.1785965,Huguenot,1298000.0
+193 Dixon Avenue,N/A,1.5,3.0,House,40.62850189,-74.14839935,Mariners Harbor,499000.0
+139 Admiralty Loop,2300.0,4.0,3.0,Townhouse,40.51530075,-74.20349884,Princes Bay,409000.0
+107 Tioga Street,2592.0,2.0,3.0,House,40.6114006,-74.10289764,Sunnyside (Staten Island),650000.0
+175 Zoe Street #5D,484.0,1.0,N/A,Condo,40.58480072,-74.10099792,Grant City,245000.0
+254 Evergreen Avenue,2935.0,2.5,5.0,House,40.58980179,-74.08550262,Dongan Hills,849000.0
+234A Steuben Street,1248.0,1.0,2.0,Townhouse,40.60820007,-74.08260345,Park Hill,299000.0
+41 Carolyn Ct,3900.0,4.0,4.0,House,40.51670074,-74.20829773,Pleasant Plains,1279999.0
+31 Hylan Boulevard #1B,1023.0,1.0,1.0,Condo,40.61520004,-74.06469727,Rosebank,449000.0
+304 S Greenleaf Avenue,N/A,2.0,3.0,House,40.61629868,-74.12529755,Westerleigh,745000.0
+351 Ridgewood Avenue,N/A,3.5,4.0,Multi-family,40.55630112,-74.16490173,Eltingville,699000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+32 Norman Place,1880.0,2.0,3.0,House,40.51720047,-74.19460297,Princes Bay,659000.0
+65 Ridge Loop,8150.0,4.0,6.0,House,40.60039902,-74.10089874,Todt Hill,1500000.0
+104 Norwalk Avenue,2752.0,3.0,4.0,House,40.60509872,-74.11689758,Todt Hill,799000.0
+416 Hoyt Avenue,1144.0,1.0,2.0,House,40.63249969,-74.10540009,West Brighton,449900.0
+122 Arnold Street,1242.0,1.5,3.0,House,40.63809967,-74.09249878,New Brighton,385000.0
+192 Bathgate Street,864.0,1.0,1.0,House,40.52920151,-74.16290283,Annadale,369000.0
+429 Bertram Avenue,3878.0,3.5,4.0,House,40.52479935,-74.17500305,Huguenot,1600000.0
+849 Jewett Avenue,N/A,4.0,6.0,Multi-family,40.61600113,-74.13079834,Westerleigh,975000.0
+178 Grimsby Street,N/A,1.5,3.0,Townhouse,40.57369995,-74.09400177,Midland Beach,469000.0
+18 Penn Street,N/A,1.0,3.0,House,40.61029816,-74.12349701,Castleton Corners,485000.0
+15 Davidson Court,N/A,,2.0,Multi-family,40.63560104,-74.16300201,Mariners Harbor,6800000.0
+374 Huguenot Avenue,8194.0,1.5,3.0,Multi-family,40.54589844,-74.1989975,Woodrow,899000.0
+484 Sharrots Road,26000.0,12.0,1.0,Building,40.53749847,-74.23500061,Charleston,1900000.0
+80 Bay Street Landing #1F,1864.0,2.5,2.0,Condo,40.6393013,-74.07409668,Saint George,789000.0
+3 Esmac Court West,N/A,5.0,5.0,House,40.59489822,-74.10579681,Todt Hill,1649999.0
+402 Manhattan Street,N/A,4.0,4.0,Multi-family,40.5,-74.24120331,Tottenville,889000.0
+95 Bishop Street,N/A,2.0,3.0,House,40.5727005,-74.12480164,Richmondtown,749900.0
+24 Grove Street,1440.0,N/A,3.0,Multi-family,40.62689972,-74.08180237,Stapleton,450000.0
+23 Jackson Street,1218.0,2.0,3.0,Multi-family,40.63069916,-74.07920074,Tompkinsville,499000.0
+78 Towers Lane,N/A,2.5,3.0,House,40.5929985,-74.18499756,Travis,450000.0
+213 Jefferson Avenue #1,N/A,1.0,2.0,Multi-family,40.58190155,-74.09919739,Grant City,699000.0
+25 N Burgher Avenue #25,N/A,1.5,4.0,House,40.64099884,-74.1155014,West Brighton,256000.0
+526 Targee Street,N/A,1.5,3.0,Townhouse,40.61420059,-74.08519745,Park Hill,2085000.0
+542 Targee Street,N/A,1.5,3.0,Townhouse,40.61420059,-74.08519745,Park Hill,850000.0
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
