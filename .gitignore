@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Added this because I'm using R to calculate shoreline distance of listings
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
