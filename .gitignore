@@ -107,4 +107,4 @@ ENV/
 .Ruserdata
 
 # PyCharm
-.idea
+.idea/
